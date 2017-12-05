@@ -1,0 +1,6480 @@
+<?xml version="1.0" encoding="UTF-8"?><FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+<description>
+  <title-info>
+    <genre>ref_dict</genre>
+    <author>
+      <first-name>Александр</first-name>
+      <last-name>Клейн</last-name>
+    </author>
+    <book-title>English Russian Science Dictionary</book-title>
+    <lang>ru</lang>
+  </title-info>
+  <document-info>
+    <author>
+      <first-name>Александр</first-name>
+      <last-name>Клейн</last-name>
+    </author>
+    <program-used>calibre 0.8.53</program-used>
+    <date>6.9.2012</date>
+    <id>cf73e5ae-0b5f-4e3d-9f2b-f56c0da99a80</id>
+    <version>1.0</version>
+  </document-info>
+  <publish-info/>
+</description>
+<body>
+<section>
+<p>
+English Russian Science Dictionary</p>
+
+<p>Александр Клейн</p>
+
+<p>E-mail address : Aleks_Kleyn@MailAPS.org</p>
+
+<p>URL: http://sites.google.com/site/alekskleyn/</p>
+
+<p>URL: http://arxiv.org/a/kleyn_a_1</p>
+
+<p>URL: http://AleksKleyn.blogspot.com/</p>
+
+<p>arXiv:math/0609472v6  [math.HO]  2 Apr 2012</p><empty-line /><p>Аннотация. English Russian and Russian English dictionaries presented in this book are dedicated to help translate a text from one language to another.</p>
+
+<p>I also included the bilingual name index into this book.</p>
+
+<p>Задача англо-русского и русско-английского словарей, представлен-</p>
+
+<p>ных в этой книге, - это помощь в переводе текста. Я включил в эту книгу</p>
+
+<p>также двуязычный именной указатель.</p><empty-line /><p>Оглавление</p>
+
+<p>Глава 1. Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>5</p>
+
+<p>Глава 2. Введение . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>9</p>
+
+<p>Глава 3. English Russian Dictionary . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>13</p>
+
+<p>3.1. A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>13</p>
+
+<p>3.2. B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>15</p>
+
+<p>3.3. C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>15</p>
+
+<p>3.4. D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>18</p>
+
+<p>3.5. E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>19</p>
+
+<p>3.6. F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>20</p>
+
+<p>3.7. G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>21</p>
+
+<p>3.8. H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>21</p>
+
+<p>3.9. I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>22</p>
+
+<p>3.10. J . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>23</p>
+
+<p>3.11. K . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>23</p>
+
+<p>3.12. L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>23</p>
+
+<p>3.13. M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>24</p>
+
+<p>3.14. N . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>25</p>
+
+<p>3.15. O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>26</p>
+
+<p>3.16. P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>27</p>
+
+<p>3.17. Q . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>28</p>
+
+<p>3.18. R . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>28</p>
+
+<p>3.19. S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>29</p>
+
+<p>3.20. T . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>31</p>
+
+<p>3.21. U . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>32</p>
+
+<p>3.22. V . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>33</p>
+
+<p>3.23. W . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>34</p>
+
+<p>3.24. Z . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>34</p>
+
+<p>Глава 4. Русско английский словарь . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.1. A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.2. C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.3. D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.4. R . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.5. S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.6. А . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>35</p>
+
+<p>4.7. Б . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>36</p>
+
+<p>4.8. В . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>36</p>
+
+<p>4.9. Г . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>38</p>
+
+<p>3</p><empty-line /><p>4</p>
+
+<p>Оглавление</p>
+
+<p>4.10. Д . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>39</p>
+
+<p>4.11. Е . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>39</p>
+
+<p>4.12. З . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>40</p>
+
+<p>4.13. И . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>41</p>
+
+<p>4.14. К . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>41</p>
+
+<p>4.15. Л . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>43</p>
+
+<p>4.16. М . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>43</p>
+
+<p>4.17. Н . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>44</p>
+
+<p>4.18. О . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>46</p>
+
+<p>4.19. П . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>47</p>
+
+<p>4.20. Р . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>50</p>
+
+<p>4.21. С . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>51</p>
+
+<p>4.22. Т . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>54</p>
+
+<p>4.23. У . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>55</p>
+
+<p>4.24. Ф . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>55</p>
+
+<p>4.25. Х . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>56</p>
+
+<p>4.26. Ц . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>56</p>
+
+<p>4.27. Ч . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>56</p>
+
+<p>4.28. Э . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>56</p>
+
+<p>4.29. Я . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>56</p>
+
+<p>Глава 5. Name index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>57</p>
+
+<p>Глава 6. Именной указатель . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>61</p>
+
+<p>Глава 7. Список литературы . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>65</p>
+
+<p>Глава 8. Список литературы . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
+<p>67</p><empty-line /><p><image xlink:href="#_0.jpg" /></p>
+
+<p>Глава 1</p>
+
+<p>Preface</p>
+
+<p>According to legend, all people spoke one language. Then they decided to build up the tower of Babel in order to climb up to the sky. To stop project, L-rd confused their languages.</p>
+
+<p>Much water has flowed since then. A lot of different occupations appeared.</p>
+
+<p>Occupation of interpreter is one of the most ancient and important. At the same time this is art.1.1</p>
+
+<p>Lively text contains phraseology, slang. It is hard to translate it one to one.</p>
+
+<p>Translation of sonnets by Shakespeare from English into Russian is very striking example. You can compare translations of sonnets by Shakespeare made by S. J.</p>
+
+<p>Marshak and A. M. Finkel. They are different works of art although original is common.</p>
+
+<p>I use sonnet 90 for the purposes of illustration.</p>
+
+<p>Then hate me when thou wilt; if ever, now;</p>
+
+<p>Now, while the world is bent my deeds to cross,</p>
+
+<p>Join with the spite of fortune, make me bow,</p>
+
+<p>And do not drop in for an after-loss:</p>
+
+<p>Ah! do not, when my heart hath ’scaped this sorrow,</p>
+
+<p>Come in the rearward of a conquered woe;</p>
+
+<p>Give not a windy night a rainy morrow,</p>
+
+<p>To linger out a purposed overthrow.</p>
+
+<p>If thou wilt leave me, do not leave me last,</p>
+
+<p>When other petty griefs have done their spite,</p>
+
+<p>But in the onset come: so shall I taste</p>
+
+<p>At first the very worst of fortune’s might;</p>
+
+<p>And other strains of woe, which now seem woe,</p>
+
+<p>Compared with loss of thee, will not seem so.</p>
+
+<p>Translation by S. J. Marshak.</p>
+
+<p>Уж если ты разлюбишь — так теперь,</p>
+
+<p>Теперь, когда весь мир со мной в раздоре.</p>
+
+<p>Будь самой горькой из моих потерь,</p>
+
+<p>Но только не последней каплей горя!</p>
+
+<p>И если скорбь дано мне превозмочь,</p>
+
+<p>1.1It looks as in spite of this human is not ready to build up new tower of Babel. I believe people should learn to understand each other, no matter what views they may have. Mankind must become mature to get this goal.</p>
+
+<p>5</p><empty-line /><p>6</p>
+
+<p>1. Preface</p>
+
+<p>Не наноси удара из засады.</p>
+
+<p>Пусть бурная не разрешится ночь</p>
+
+<p>Дождливым утром — утром без отрады.</p>
+
+<p>Оставь меня, но не в последний миг,</p>
+
+<p>Когда от мелких бед я ослабею.</p>
+
+<p>Оставь сейчас, чтоб сразу я постиг,</p>
+
+<p>Что это горе всех невзгод больнее,</p>
+
+<p>Что нет невзгод, а есть одна беда —</p>
+
+<p>Твоей любви лишиться навсегда.</p>
+
+<p>Translation by A. M. Finkel.</p>
+
+<p>Что ж, ненавидь, коль хочешь! Но сейчас,</p>
+
+<p>Сейчас, когда грозит мне злобой небо.</p>
+
+<p>Согни меня, с судьбой объединясь,</p>
+
+<p>Но лишь бы твой удар последним не был.</p>
+
+<p>Ах, если сердцем я осилю зло,</p>
+
+<p>Ему немедля ты явись на смену.</p>
+
+<p>Чтобы за бурной ночью не пришло</p>
+
+<p>С дождями утро, - доверши измену</p>
+
+<p>И уходи! Но только не тогда,</p>
+
+<p>Когда все беды наигрались мною.</p>
+
+<p>Уйди сейчас, чтоб первая беда</p>
+
+<p>Была страшней всех посланных судьбою.</p>
+
+<p>И после жесточайшей из утрат</p>
+
+<p>Другие легче станут во сто крат.</p>
+
+<p>No doubt, to appreciate the difference of these translations at its true value, we need to know well both languages. However I add few notes.</p>
+
+<p>Although both translations describe similar situation in the life, there is one strong difference. Translation by Finkel is foreboding of disaster which is possibly unavoidable. Translation by Marshak is epicenter. Although translations are different, each of them leaves indelible track. Each of translations reflects individual perception of interpreter, his emotional experience. The strength of translations is that Marshak and Finkel are co-authors of Shakespeare.</p>
+
+<p>There exists opinion that it is much easier to translate technical text. Unambiguity of translation of term is one of the reasons. Another reason is existence of set of phrases; using of such phrases make easier realization of the text.</p>
+
+<p>However I do not agree with this point of view. It is not enough to write good theorems for writing of the paper. We expect that somebody reads the paper.</p>
+
+<p>And good style is important here. This is more important when we translate a paper from one language to other. Sometimes it is not easy task to put text into frame prepared in advance. Moreover, any text has emotional color which expresses author’s relationship. In this case we need somebody’s help.</p><empty-line /><p>1. Preface</p>
+
+<p>7</p>
+
+<p>Writing papers I frequently use outside assistance during translation. Today we can find such help because of development of software and internet. For instance, you can find a lot of forums on web page</p>
+
+<p>http://forum.lingvo.ru/actualforum.aspx</p>
+
+<p>and somebody in these forums can help you to translate text. I frequently use help of the forum "English-Russian-English translation"</p>
+
+<p>http://forum.lingvo.ru/actualtopics.aspx?bid=18</p>
+
+<p>and I am very grateful to everybody who helps me to translate my papers.</p>
+
+<p>Usually I am looking for help in the forum either I meet unusual grammatical form, or expression which I cannot translate unambiguously. Very often when I translate I feel that I need to change original sentence in order to make it more sufficient to my ideas in both languages.</p>
+
+<p>When I feel that I need additional assistance, I visit Google, book search,</p>
+
+<p>http://books.google.com/bkshp?tab=wp</p>
+
+<p>where I can find appropriate terminology or sample how to write proper sentence.</p>
+
+<p>In Russian literature there is good custom to mention name of interpreter.</p>
+
+<p>Because I turn for help to forum, it is hard for me to follow this custom. Therefore I decided to tell about people who help me in the book dedicated to process of translation.</p>
+
+<p>Initially I started this vocabulary as immediate helper to write papers. I wrote vocabulary slowly. I put into vocabulary terms and definitions which was important for me and I met in books published on both languages. When vocabulary became large enough I decided to make it available for others. I also took into account the wishes expressed in response to previous versions of vocabulary. This vocabulary involves only physical and mathematical terminology. Word may have an alternative translation or different meaning in common speech. However I did not include this information into vocabulary</p>
+
+<p>I also included the bilingual name index into this book. I added into this list only names which I met in both Russian and English texts. However there is one more problem which I meet when I translate papers. Sometimes the relationship between the writing and and the pronunciation is not clear. It would be good idea to add transcription, however I did not make it because I did not have reliable source.</p><empty-line /><p><image xlink:href="#_1.jpg" /></p>
+
+<p>Глава 2</p>
+
+<p>Введение</p>
+
+<p>Согласно преданию, все люди разговаривали на одном языке. Тогда они ре-</p>
+
+<p>шили построить Вавилонскую башню, чтобы взобраться по ней на небо. Чтобы</p>
+
+<p>остановить строительство, Б-г смешал их языки.</p>
+
+<p>Немало воды утекло с тех пор. Появилось много разных профессий. Про-</p>
+
+<p>фессия переводчика одна из древних и важных. И в тоже время это искус-</p>
+
+<p>ство.2.1</p>
+
+<p>Живой текст содержит фразеологизмы, сленг. Всё то, что дословно не пе-</p>
+
+<p>реведёшь. Очень яркий пример для меня - это перевод сонетов Шекспира на</p>
+
+<p>русский. Сравните переводы сонетов Шекспира, сделанные С. Я. Маршаком и</p>
+
+<p>А. М. Финкелем. Это разные произведения, хотя оригинал общий.</p>
+
+<p>В качестве иллюстрации я приведу сонет 90.</p>
+
+<p>Then hate me when thou wilt; if ever, now;</p>
+
+<p>Now, while the world is bent my deeds to cross,</p>
+
+<p>Join with the spite of fortune, make me bow,</p>
+
+<p>And do not drop in for an after-loss:</p>
+
+<p>Ah! do not, when my heart hath ’scaped this sorrow,</p>
+
+<p>Come in the rearward of a conquered woe;</p>
+
+<p>Give not a windy night a rainy morrow,</p>
+
+<p>To linger out a purposed overthrow.</p>
+
+<p>If thou wilt leave me, do not leave me last,</p>
+
+<p>When other petty griefs have done their spite,</p>
+
+<p>But in the onset come: so shall I taste</p>
+
+<p>At first the very worst of fortune’s might;</p>
+
+<p>And other strains of woe, which now seem woe,</p>
+
+<p>Compared with loss of thee, will not seem so.</p>
+
+<p>Перевод С. Я. Маршака.</p>
+
+<p>Уж если ты разлюбишь — так теперь,</p>
+
+<p>Теперь, когда весь мир со мной в раздоре.</p>
+
+<p>Будь самой горькой из моих потерь,</p>
+
+<p>Но только не последней каплей горя!</p>
+
+<p>И если скорбь дано мне превозмочь,</p>
+
+<p>Не наноси удара из засады.</p>
+
+<p>2.1Несмотря на это, похоже, человек не готов строить новую Вавилонскую башню. Я ду-</p>
+
+<p>маю, люди должны научиться понимать друг друга независимо от того, каких взглядов они</p>
+
+<p>придерживаются. А для этого человечество ещё должно повзрослеть.</p>
+
+<p>9</p><empty-line /><p>10</p>
+
+<p>2. Введение</p>
+
+<p>Пусть бурная не разрешится ночь</p>
+
+<p>Дождливым утром — утром без отрады.</p>
+
+<p>Оставь меня, но не в последний миг,</p>
+
+<p>Когда от мелких бед я ослабею.</p>
+
+<p>Оставь сейчас, чтоб сразу я постиг,</p>
+
+<p>Что это горе всех невзгод больнее,</p>
+
+<p>Что нет невзгод, а есть одна беда —</p>
+
+<p>Твоей любви лишиться навсегда.</p>
+
+<p>Перевод А. М. Финкеля.</p>
+
+<p>Что ж, ненавидь, коль хочешь! Но сейчас,</p>
+
+<p>Сейчас, когда грозит мне злобой небо.</p>
+
+<p>Согни меня, с судьбой объединясь,</p>
+
+<p>Но лишь бы твой удар последним не был.</p>
+
+<p>Ах, если сердцем я осилю зло,</p>
+
+<p>Ему немедля ты явись на смену.</p>
+
+<p>Чтобы за бурной ночью не пришло</p>
+
+<p>С дождями утро, - доверши измену</p>
+
+<p>И уходи! Но только не тогда,</p>
+
+<p>Когда все беды наигрались мною.</p>
+
+<p>Уйди сейчас, чтоб первая беда</p>
+
+<p>Была страшней всех посланных судьбою.</p>
+
+<p>И после жесточайшей из утрат</p>
+
+<p>Другие легче станут во сто крат.</p>
+
+<p>Без сомнения, чтобы оценить различие этих переводов, надо в совершен-</p>
+
+<p>стве знать оба языка. Однако я позволю себе несколько комментариев.</p>
+
+<p>Хотя оба перевода описывают практически одну и ту же жизненную ситу-</p>
+
+<p>ацию, между ними есть одно сильное различие. Перевод А.М.Финкеля - это</p>
+
+<p>предчувствие беды, возможно неминуемой. Перевод Маршака - самый эпи-</p>
+
+<p>центр. И хотя переводы различны, каждый из них оставляет неизгладимый</p>
+
+<p>след. Каждый из переводов отражает личное восприятие переводчика, его пе-</p>
+
+<p>реживание. Сила переводов в том, что и Маршак, и Финкель оказались соав-</p>
+
+<p>торами Шекспира.</p>
+
+<p>Существует представление, что техническую литературу переводить лег-</p>
+
+<p>че. Одна из причин - однозначность перевода технических терминов. Другая</p>
+
+<p>причина - существование некоторого набора штампов, использование которых</p>
+
+<p>облегчает понимание текста.</p>
+
+<p>Однако я не согласен с этой точкой зрения. Недостаточно вывести хорошие</p>
+
+<p>теоремы, для того, чтобы написать статью. Статья должна быть прочитана.</p>
+
+<p>И хороший стиль играет здесь не последнюю роль. Особенно это важно, когда</p>
+
+<p>мы переводим статью на другой язык. Поместить фразу в заранее приготов-</p>
+
+<p>ленный штамп порой нелегко. Кроме того, любой текст имеет эмоциональную</p>
+
+<p>окраску, выражающую отношение автора. В этих случаях может понадобиться</p>
+
+<p>посторонняя помощь.</p><empty-line /><p>2. Введение</p>
+
+<p>11</p>
+
+<p>Когда я пишу статьи, я нередко пользуюсь посторонней помощью при пе-</p>
+
+<p>реводе. Сегодня, благодаря развитию программных средств и интернета, найти</p>
+
+<p>такую помощь легче, чем это было недавно. Например, на интернет странице</p>
+
+<p>http://forum.lingvo.ru/actualforum.aspx</p>
+
+<p>вы можете найти разнообразные форумы, где вам всегда помогут перевести</p>
+
+<p>текст. Я очень часто пользуюсь помощью форума "Англо-русско-английский</p>
+
+<p>перевод"</p>
+
+<p>http://forum.lingvo.ru/actualtopics.aspx?bid=18</p>
+
+<p>и я приношу свою глубокую благодарность всем, кто помогает мне в переводе</p>
+
+<p>моих статей.</p>
+
+<p>Обычно я ищу помощь в форуме либо если я столкнулся с необычной грам-</p>
+
+<p>матической формой, либо с выражением, которое не переводится однозначно.</p>
+
+<p>Нередко в процессе перевода я прихожу к выводу изменить исходную фразу</p>
+
+<p>для того, чтобы она более адекватно выражала мою мысль на обоих языках.</p>
+
+<p>В тех случаях, когда я чувствую, что этой помощи мне не достаточно, я</p>
+
+<p>иду на google, book search,</p>
+
+<p>http://books.google.com/bkshp?tab=wp</p>
+
+<p>где я могу найти правильную терминологию или образец употребления той или</p>
+
+<p>иной фразы.</p>
+
+<p>В русской литературе существует хорошая традиция указывать имя пере-</p>
+
+<p>водчика. Так как я обращаюсь за помощью к форуму, мне трудно следовать</p>
+
+<p>этой традиции. Поэтому я принял решение рассказать о тех, кто мне помогает</p>
+
+<p>в книге, специально посвящённой процессу перевода.</p>
+
+<p>Изначально этот словарь был задуман как непосредственный помощник</p>
+
+<p>при написании статей. Словарь составлялся постепенно. Я включал в него фра-</p>
+
+<p>зы, которые представляли для меня интерес и которые я встречал в книгах, изданных на обоих языках. Постепенно объём словаря рос. Я решил сделать</p>
+
+<p>словарь доступным для других. Поэтому я постарался так же учесть поже-</p>
+
+<p>лания, высказанные в ответ на предыдущие издания словаря. Этот словарь</p>
+
+<p>включает в себя только физические и математические термины. Если слово</p>
+
+<p>имеет альтернативный перевод или другой смысл в обычной речи, то эта ин-</p>
+
+<p>формация в словаре отсутствует.</p>
+
+<p>Я также включил в книгу двуязычный именной указатель. В этот список</p>
+
+<p>я также включал только те имена, которые встречал и в русском, и в англий-</p>
+
+<p>ском текстах. Однако здесь есть ещё одна проблема, с которой я столкнулся</p>
+
+<p>при переводе статей. Далеко не всегда очевидна связь между записью и про-</p>
+
+<p>изношением имени. Было бы неплохо добавить транскрипцию, но я этого не</p>
+
+<p>сделал, так как у меня нет надёжного источника.</p><empty-line /><p>Глава 3</p>
+
+<p>English Russian Dictionary</p>
+
+<p>3.1. A</p>
+
+<p>A-valued function: A-значная функция</p>
+
+<p>Abelian group: абелевая группа</p>
+
+<p>absolute value: абсолютная величина; норма</p>
+
+<p>Example 3.1.1.</p>
+
+<p>Absolute value on skew field D is a mapping</p>
+
+<p>d ∈ D → |d| ∈ R</p>
+
+<p>which satisfies the following axioms</p>
+
+<p>• |a| ≥ 0</p>
+
+<p>• |a| = 0 if, and only if, a = 0</p>
+
+<p>• |ab| = |a| |b|</p>
+
+<p>• |a + b| ≤ |a| + |b|</p>
+
+<p>Норма на теле D - это отображение</p>
+
+<p>d ∈ D → |d| ∈ R</p>
+
+<p>такое, что</p>
+
+<p>• |a| ≥ 0</p>
+
+<p>• |a| = 0 равносильно a = 0</p>
+
+<p>• |ab| = |a| |b|</p>
+
+<p>• |a + b| ≤ |a| + |b|</p>
+
+<p>absorption of photon: поглощение фотона</p>
+
+<p>acceleration: ускорение</p>
+
+<p>accelerator: ускоритель</p>
+
+<p>according to theorem 2.1: согласно теореме 2.1</p>
+
+<p>Example 3.1.2.</p>
+
+<p>According to theorem 2.1, triangles ABC and DBC equal.</p>
+
+<p>Согласно теореме 2.1 треугольники ABC и DBC равны.</p>
+
+<p>acute angle: острый угол</p>
+
+<p>additive group: аддитивная группа</p>
+
+<p>adjacent angle: смежный угол</p>
+
+<p>adjoin: присоединить</p>
+
+<p>Example 3.1.3.</p>
+
+<p>We adjoin to (2.7) all the equations obtained by equating</p>
+
+<p>to 0 those commutators which are not expressible in the form</p>
+
+<p>(2,10).</p>
+
+<p>13</p><empty-line /><p><image xlink:href="#_2.jpg" /></p>
+
+<p><image xlink:href="#_3.jpg" /></p>
+
+<p><image xlink:href="#_4.jpg" /></p>
+
+<p><image xlink:href="#_5.jpg" /></p>
+
+<p>14</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>see [English.9], p. 7</p>
+
+<p>Мы присоединим к (2.7) все уравнения, полученные приравнива-</p>
+
+<p>нием 0 тех коммутаторов, которые не выражаются в форме (2.10).</p>
+
+<p>см. [Russian.9], стр. 13, 14</p>
+
+<p>adjoint group: присоединённая группа</p>
+
+<p>algebra bundle: расслоенная алгебра</p>
+
+<p>algebraic: алгебраический</p>
+
+<p>algebraic complement of matrix: алгебраическое дополнение матри-</p>
+
+<p>цы</p>
+
+<p>algebraic extension: алгебраическое расширение</p>
+
+<p>amplitude: амплитуда</p>
+
+<p>analytic in x (x is variable): аналитична по x (x - переменная)</p>
+
+<p>Example 3.1.4.</p>
+
+<p>The following treatment applies to a domain in which ψa are</p>
+
+<p>i</p>
+
+<p>analytic in the θ’s and x’s,</p>
+
+<p>see [English.9], p. 1</p>
+
+<p>Наши исследования будут относиться к области, в которой ψa ана-</p>
+
+<p>i</p>
+
+<p>литичны по θ и x.</p>
+
+<p>см. [Russian.9], стр. 7</p>
+
+<p>angle: угол</p>
+
+<p>angle of incidence: угол падения</p>
+
+<p>angle of reflection: угол отражения</p>
+
+<p>angle of refraction: угол преломления</p>
+
+<p>angular momentum: момент количества движения</p>
+
+<p>anholonomic coordinates: неголономные координаты</p>
+
+<p>anholonomity: неголономность</p>
+
+<p>anholonomity object: объект неголономности</p>
+
+<p>annihilation operator: оператор уничтожения</p>
+
+<p>annihilator: аннулятор</p>
+
+<p>apocentre: апоцентр</p>
+
+<p>approximation: приближение</p>
+
+<p>arccosecant: арккосеканс</p>
+
+<p>arccosine: арккосинус</p>
+
+<p>arccotangent: арккотангенс</p>
+
+<p>arcsecant: арксеканс</p>
+
+<p>arcsine: арксинус</p>
+
+<p>arctangent: арктангенс</p>
+
+<p>arity: арность</p>
+
+<p>as small as we please: сколь угодно малый</p>
+
+<p>associative: ассоциативный</p>
+
+<p>associative law: закон ассоциативности</p>
+
+<p>associativity: ассоциативность</p><empty-line /><p><image xlink:href="#_6.jpg" /></p>
+
+<p><image xlink:href="#_7.jpg" /></p>
+
+<p>3.3. C</p>
+
+<p>15</p>
+
+<p>at first glance: на первый взгляд</p>
+
+<p>at first sight: на первый взгляд</p>
+
+<p>at least: по крайней мере</p>
+
+<p>Example 3.1.5.</p>
+
+<p>At least in the neighborhood of the identity.</p>
+
+<p>По крайней мере, в окрестности единичного элемента.</p>
+
+<p>attractor: аттрактор</p>
+
+<p>auto parallel line: автопараллельная кривая</p>
+
+<p>axiom of choice: аксиома выбора</p>
+
+<p>3.2. B</p>
+
+<p>Banach algebra: банахова алгебра</p>
+
+<p>Banach space: банахово пространство</p>
+
+<p>base of fibered correspondence: база расслоенного соответствия</p>
+
+<p>base of topology: базис топологии</p>
+
+<p>basis for vector space: базис в векторном пространстве; базис вектор-</p>
+
+<p>ного пространства</p>
+
+<p>basis of vector space: базис в векторном пространстве; базис вектор-</p>
+
+<p>ного пространства</p>
+
+<p>behavior: поведение</p>
+
+<p>Bell’s theorem: теорема Белла</p>
+
+<p>bijection: биекция</p>
+
+<p>bimodule: бимодуль</p>
+
+<p>binary: бинарный</p>
+
+<p>Bott periodicity: периодичность Ботта</p>
+
+<p>boundary: граница</p>
+
+<p>boundary conditions: граничные условия</p>
+
+<p>By Theorem 2,1: согласно теореме 2.1</p>
+
+<p>Example 3.2.1.</p>
+
+<p>By Theorem 2.1, a = b.</p>
+
+<p>Согласно теореме 2.1, a = b.</p>
+
+<p>3.3. C</p>
+
+<p>canonical map: каноническое отображение</p>
+
+<p>Example 3.3.1.</p>
+
+<p>The map f of G onto G/H constructed above is called canonical</p>
+
+<p>map, and G/H is called the factor group of G by H.</p>
+
+<p>see [English.2], p. 14</p>
+
+<p>Отображение f группы G на G/H, построенное выше, называет-</p>
+
+<p>ся каноническим отображением, а G/H называется факторгруппой</p>
+
+<p>группы G по H.</p>
+
+<p>см. [Russian.2], стр. 28</p>
+
+<p>Cartesian coordinate system: декартова система координат</p><empty-line /><p><image xlink:href="#_8.jpg" /></p>
+
+<p>16</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>Cartesian power: декартова степень</p>
+
+<p>Cartesian product: декартово произведение</p>
+
+<p>category: категория</p>
+
+<p>Cauchy sequence: последовательность Коши</p>
+
+<p>causal relationship: причинно-следственная связь</p>
+
+<p>causal scalar field: причинное скалярное поле</p>
+
+<p>causal vector field: причинное векторное поле</p>
+
+<p>chain rule: правило дифференцирования сложной функции</p>
+
+<p>change of coordinates: замена координат</p>
+
+<p>change of variable: замена переменной</p>
+
+<p>chaos: хаос</p>
+
+<p>chart over U : тривиализация над U</p>
+
+<p>closure of the set: замыкание множества</p>
+
+<p>closure operator: оператор замыкания</p>
+
+<p>closure system: система замыканий</p>
+
+<p>cluster point: точка прикосновения</p>
+
+<p>coarsest topology: самая слабая топология</p>
+
+<p>cofactor of matrix: алгебраическое дополнение матрицы</p>
+
+<p>colloquia: коллоквиумы</p>
+
+<p>colloquium: коллоквиум</p>
+
+<p>column vector: вектор столбец</p>
+
+<p>combinatorics: комбинаторика</p>
+
+<p>commutative diagram: коммутативная диаграмма</p>
+
+<p>commutativity: коммутативность</p>
+
+<p>commutator: коммутатор</p>
+
+<p>commute: коммутирует</p>
+
+<p>Example 3.3.2.</p>
+
+<p>Because P commutes with H, the proper states of H can be</p>
+
+<p>labeled by proper values of P .</p>
+
+<p>see [English.10], p. 106</p>
+
+<p>Так как P коммутирует с H, собственные состояния H могут быть</p>
+
+<p>помечены собственными значениями P .</p>
+
+<p>compact-open topology: компактно-открытая топология</p>
+
+<p>comparable topology: сравнимые топологии</p>
+
+<p>complete division ring: полное тело</p>
+
+<p>complete field: полное поле</p>
+
+<p>complete lattice: полная структура</p>
+
+<p>complete space: полное пространство</p>
+
+<p>complete system: полная система</p>
+
+<p>completely integrable: вполне интегрируемый</p>
+
+<p>complex field: поле комплексных чисел</p>
+
+<p>componentwise: покомпонентно</p>
+
+<p>conditions of integrability: условия интегрируемости</p>
+
+<p>conformal transformation: конформное преобразование</p>
+
+<p>congruence: конгруэнтность; согласованность</p>
+
+<p>conjugate quaternion: сопряжённый кватернион</p>
+
+<p>connected group: связная группа</p><empty-line /><p>3.3. C</p>
+
+<p>17</p>
+
+<p>connection coefficients: коэффициенты связности</p>
+
+<p>conservation law: закон сохранения</p>
+
+<p>consider: рассматривать</p>
+
+<p>Example 3.3.3.</p>
+
+<p>Consider correspondence from set A to set B.</p>
+
+<p>Рассмотрим соответствие Φ из множества A в множество B.</p>
+
+<p>continuous in neighborhood: непрерывен в окрестности</p>
+
+<p>continuous in x: непрерывный по x</p>
+
+<p>contradiction: противоречие</p>
+
+<p>Example 3.3.4.</p>
+
+<p>The contradiction completes the proof of the theorem.</p>
+
+<p>Полученное противоречие доказывает теорему.</p>
+
+<p>contravariant: контравариантный</p>
+
+<p>convection: конвекция</p>
+
+<p>convention: соглашение</p>
+
+<p>Example 3.3.5.</p>
+
+<p>We use the convention that we present any set of vectors of</p>
+
+<p>the vector space as a row.</p>
+
+<p>Мы пользуемся соглашением, что в заданном векторном простран-</p>
+
+<p>стве мы представляем любое семейство векторов в виде строки.</p>
+
+<p>converge: сходиться</p>
+
+<p>Example 3.3.6.</p>
+
+<p>Filter F converges to x.</p>
+
+<p>Фильтр F сходится к x.</p>
+
+<p>conversely: обратно</p>
+
+<p>convex function: выпуклая функция</p>
+
+<p>coordinate chart: координатная карта</p>
+
+<p>correlation: корреляция</p>
+
+<p>correspondence from A to B: соответствие из A в B</p>
+
+<p>cosecant: косеканс</p>
+
+<p>cosine: косинус</p>
+
+<p>cotangent: котангенс</p>
+
+<p>countable set: счётное множество</p>
+
+<p>counter: счётчик</p>
+
+<p>covariant: ковариантный</p>
+
+<p>cover: покрытие</p>
+
+<p>covering space: накрытие</p>
+
+<p>Example 3.3.7.</p>
+
+<p>Consider the covering space R → S1 of the circle S1 defined</p>
+
+<p>by p(t) = (sin t, cos t) for any t ∈ R.</p>
+
+<p>Рассмотрим накрытие R → S1 окружности S1, определённое фор-</p>
+
+<p>мулой p(t) = (sin t, cos t) для любого t ∈ R.</p>
+
+<p>Cramer’s Rule: правило Крамера</p>
+
+<p>∗ D-vector space: ∗ D-векторное пространство</p>
+
+<p>∗</p>
+
+<p>∗</p><empty-line /><p>18</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>creation operator: оператор рождения</p>
+
+<p>crystal lattice: кристаллическая решётка</p>
+
+<p>curve: кривая</p>
+
+<p>curvilinear coordinates: криволинейные координаты</p>
+
+<p>cycle: цикл</p>
+
+<p>cyclic group: циклическая группа</p>
+
+<p>3.4. D</p>
+
+<p>D∗ -vector space: D∗ -векторное пространство</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>decomposition of map: разложение отображения</p>
+
+<p>define: определяет</p>
+
+<p>Example 3.4.1.</p>
+
+<p>This equation defines the inverse transformation.</p>
+
+<p>Это уравнение определяет обратное преобразование.</p>
+
+<p>degree of map: степень отображения</p>
+
+<p>denominator: знаменатель</p>
+
+<p>Example 3.4.2.</p>
+
+<p>Let us reduce items to a common denominator.</p>
+
+<p>Приведём слагаемые к общему знаменателю.</p>
+
+<p>dependence: зависимость</p>
+
+<p>derivative of second or greater order with respect: производная вто-</p>
+
+<p>рого или более высокого порядка по</p>
+
+<p>develop equation: вывести уравнение</p>
+
+<p>diagram of correspondences: диаграмма соответствий</p>
+
+<p>difference: разность</p>
+
+<p>difference module: фактор модуль</p>
+
+<p>differentiability: дифференцируемость</p>
+
+<p>differentiable function: дифференцируемая функция</p>
+
+<p>differentiable in the Fréchet sense: дифференцируемый по Фреше</p>
+
+<p>differentiable in the Gâteaux sense: дифференцируемый по Гато</p>
+
+<p>differentiate the function with respect to x: дифференцировать функ-</p>
+
+<p>цию по x</p>
+
+<p>diffraction: дифракция</p>
+
+<p>diffusion: диффузия</p>
+
+<p>discrete space: дискретное пространство</p>
+
+<p>discrete topology: дискретная топология</p>
+
+<p>distributive law: закон дистрибутивности</p>
+
+<p>distributive property of multiplication over addition: дистрибутивность</p>
+
+<p>умножения относительно сложения</p>
+
+<p>division ring: тело (кольцо с делением)</p>
+
+<p>domain: область определения</p>
+
+<p>Doppler shift: эффект Доплера</p>
+
+<p>downstairs: внизу</p>
+
+<p>Example 3.4.3.</p>
+
+<p>We sum over any index which appears twice in the same</p>
+
+<p>term, once upstairs and once downstairs.</p><empty-line /><p><image xlink:href="#_9.jpg" /></p>
+
+<p><image xlink:href="#_10.jpg" /></p>
+
+<p>3.5. E</p>
+
+<p>19</p>
+
+<p>Подразумевается сумма по любому индексу, появляющемуся два-</p>
+
+<p>жды в одном и том же слагаемом, один раз вверху, другой - внизу.</p>
+
+<p>D ∗-linearly dependent: D ∗-линейно зависимые</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-linearly independent: D ∗-линейно независимые</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-vector function: D ∗-вектор-функция</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-vector space: D ∗-векторное пространство</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D⋆-linearly dependent: D⋆-линейно зависимые</p>
+
+<p>D⋆-linearly independent: D⋆-линейно независимые</p>
+
+<p>dual module: дуальный модуль</p>
+
+<p>dual space: дуальное пространство</p>
+
+<p>dynamics: динамика</p>
+
+<p>3.5. E</p>
+
+<p>eccentricity: эксцентриситет</p>
+
+<p>eclipse: затмение</p>
+
+<p>elementary particle: элементарная частица</p>
+
+<p>emission of photon: излучение фотона</p>
+
+<p>endomorphism: эндоморфизм</p>
+
+<p>energy: энергия</p>
+
+<p>engine: двигатель</p>
+
+<p>enhanced: расширенный</p>
+
+<p>entropy: энтропия</p>
+
+<p>envelope of a family of plane curves: огибающая семейства плоских</p>
+
+<p>кривых</p>
+
+<p>enveloping algebra: обвёртывающая алгебра</p>
+
+<p>equation is satisfied identically: уравнение удовлетворяется тождествен-</p>
+
+<p>но</p>
+
+<p>equivalence class: класс эквивалентности</p>
+
+<p>equivalence relation: эквивалентность</p>
+
+<p>Erlanger Program: Эрлангенская программа</p>
+
+<p>essential parameters in a set of functions: существенные параметры</p>
+
+<p>семейства функций</p>
+
+<p>Euclidean metric: эвклидова метрика</p>
+
+<p>Euclidean space: эвклидово пространство</p>
+
+<p>evaluating by equating x to the a: подстановка a вместо x</p>
+
+<p>event horizon: горизонт событий</p>
+
+<p>event space: пространство событий</p>
+
+<p>evidence: очевидность</p>
+
+<p>evidently: очевидно</p>
+
+<p>Example 3.5.1.</p>
+
+<p>The only solution is evidently f = 0.</p>
+
+<p>see [English.9], p. 7</p>
+
+<p>Существует, очевидно, только одно решение f = 0.</p>
+
+<p>см. [Russian.9], стр. 14</p><empty-line /><p><image xlink:href="#_11.jpg" /></p>
+
+<p><image xlink:href="#_12.jpg" /></p>
+
+<p>20</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>exact sequence of modules: точная последовательность модулей</p>
+
+<p>extension field: расширение поля</p>
+
+<p>extension of correspondence: продолжение соответствия</p>
+
+<p>exterior differential: внешний дифференциал</p>
+
+<p>exterior product: внешнее произведение</p>
+
+<p>external algebra: внешняя алгебра</p>
+
+<p>external power: внешняя степень</p>
+
+<p>extremal: экстремальный</p>
+
+<p>extreme: экстремальный</p>
+
+<p>extreme line: экстремальная кривая</p>
+
+<p>3.6. F</p>
+
+<p>factor: множитель; разложить на множители; сомножитель</p>
+
+<p>Example 3.6.1.</p>
+
+<p>To factor a polynomial means to find two or more polynomials</p>
+
+<p>whose product is the given polynomial.</p>
+
+<p>Чтобы разложить многочлен на множители, необходимо найти</p>
+
+<p>два или более многочленов, произведение которых есть данный мно-</p>
+
+<p>гочлен.</p>
+
+<p>factor group: факторгруппа</p>
+
+<p>factorization: разложение на множители</p>
+
+<p>fiber: слой</p>
+
+<p>fibered correspondence: расслоенное соответствие</p>
+
+<p>fibered map: морфизм расслоений</p>
+
+<p>fibered product: расслоенное произведение</p>
+
+<p>field-strength tensor: тензор напряжённости поля</p>
+
+<p>filter: фильтр</p>
+
+<p>filter base: базис фильтра</p>
+
+<p>finest topology: самая сильная топология</p>
+
+<p>finite dimensional: конечномерный</p>
+
+<p>finite set: конечное множество</p>
+
+<p>Finsler metric: финслеровая метрика</p>
+
+<p>Finslerian metric: финслеровая метрика</p>
+
+<p>force: сила</p>
+
+<p>Example 3.6.2.</p>
+
+<p>In 1935, Hideki Yukawa proposed a quite different field theory</p>
+
+<p>of the nuclear force.</p>
+
+<p>see [English.1], p. 29, 30</p>
+
+<p>В 1935 году Хидеки Юкава предложил совершенно новую кван-</p>
+
+<p>товую теорию поля для описания ядерных сил.</p>
+
+<p>см. [Russian.1], стр. 39</p>
+
+<p>the Fréchet derivative: производная Фреше</p>
+
+<p>the Fréchet differential: дифференциал Фреше</p>
+
+<p>free representation: свободное представление</p><empty-line /><p>3.8. H</p>
+
+<p>21</p>
+
+<p>frequency: частота</p>
+
+<p>friction: сила трения; трение</p>
+
+<p>function f of x: функция f от x</p>
+
+<p>functional: функционал</p>
+
+<p>functor: функтор</p>
+
+<p>fundamental sequence: фундаментальная последовательность</p>
+
+<p>3.7. G</p>
+
+<p>G-principal bundle: главное G-расслоение</p>
+
+<p>galaxy: галактика</p>
+
+<p>the Gâteaux derivative: производная Гато</p>
+
+<p>the Gâteaux differential: дифференциал Гато</p>
+
+<p>gauge invariance: калибровочная инвариантность</p>
+
+<p>general relativity: общая теория относительности</p>
+
+<p>generally speaking: вообще говоря</p>
+
+<p>generated: порождённый</p>
+
+<p>Example 3.7.1.</p>
+
+<p>Algebra A generated by the set S is a K-algebra</p>
+
+<p>Алгебра A, порождённая множеством S, является K-алгеброй.</p>
+
+<p>generator: образующая</p>
+
+<p>geometry: геометрия</p>
+
+<p>Global Positioning System: глобальная система позиционирования</p>
+
+<p>gluing functions: функции склеивания</p>
+
+<p>Gram-Schmidt orthogonalization procedure: процесс ортогонализа-</p>
+
+<p>ции Грама–Шмидта</p>
+
+<p>graph: граф</p>
+
+<p>graph theory: теория графов</p>
+
+<p>gravity probe: гравитационный зонд</p>
+
+<p>group bundle: расслоенная группа</p>
+
+<p>3.8. H</p>
+
+<p>Hadamard inverse: обращение Адамара</p>
+
+<p>has relevance to: имеет отношение к</p>
+
+<p>head of vector: конец вектора</p>
+
+<p>helical structure: спиральная структура</p>
+
+<p>helicity: спиральность</p>
+
+<p>hermitian form: эрмитова форма</p>
+
+<p>highest common factor of p and q: наибольший общий делитель p и q</p>
+
+<p>holonomic coordinates: голономные координаты</p>
+
+<p>homeomorphic: гомеоморфный</p>
+
+<p>homeomorphism: гомеоморфизм</p>
+
+<p>homogeneous: однородный</p>
+
+<p>homogeneous Lorentz group: однородная группа Лоренца</p>
+
+<p>homology: гомология</p>
+
+<p>homomorphism: гомоморфизм</p>
+
+<p>homotopic: гомотопный</p>
+
+<p>homotopy: гомотопия</p><empty-line /><p>22</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>hyperfine splitting: сверхтонкое расщепление</p>
+
+<p>hyperplane: гиперплоскость</p>
+
+<p>3.9. I</p>
+
+<p>identical particles: тождественные частицы</p>
+
+<p>identification: отождествление</p>
+
+<p>identification morphism: морфизм отождествления</p>
+
+<p>identity: единичный элемент</p>
+
+<p>iff: тогда и только тогда, когда</p>
+
+<p>Example 3.9.1.</p>
+
+<p>a = 0 iff aj = 0 for any i, j.</p>
+
+<p>i</p>
+
+<p>a = 0 тогда и только тогда, когда aj = 0 для любых i, j.</p>
+
+<p>i</p>
+
+<p>image under map: образ при отображении</p>
+
+<p>Example 3.9.2.</p>
+
+<p>We define the image of the set A under correspondence Φ</p>
+
+<p>according to law</p>
+
+<p>AΦ = {b : (a, b) ∈ Φ, a ∈ A}</p>
+
+<p>Мы определим образ множества A при соответствии Φ согласно</p>
+
+<p>равенству</p>
+
+<p>AΦ = {b : (a, b) ∈ Φ, a ∈ A}</p>
+
+<p>in a similar way: подобным образом</p>
+
+<p>Example 3.9.3.</p>
+
+<p>In a similar way, we can introduce a coordinate reference</p>
+
+<p>frame.</p>
+
+<p>Подобным образом мы можем определить координатную систему</p>
+
+<p>отсчёта.</p>
+
+<p>in general: вообще говоря</p>
+
+<p>Example 3.9.4.</p>
+
+<p>However in general this product is not D ∗-linear map.</p>
+
+<p>∗</p>
+
+<p>Однако, вообще говоря, это отображением не является D ∗-линей-</p>
+
+<p>∗</p>
+
+<p>ным.</p>
+
+<p>indicatrix: индикатриса</p>
+
+<p>inequation: неравенство</p>
+
+<p>infinitesimal: бесконечно малая величина; бесконечно малый</p>
+
+<p>inhomogeneous: неоднородный</p>
+
+<p>inhomogeneous Lorentz group: неоднородная группа Лоренца</p>
+
+<p>injection: инъекция</p>
+
+<p>insulator: диэлектрик; изолятор</p>
+
+<p>interaction: взаимодействие</p><empty-line /><p><image xlink:href="#_13.jpg" /></p>
+
+<p><image xlink:href="#_14.jpg" /></p>
+
+<p>3.12. L</p>
+
+<p>23</p>
+
+<p>Example 3.9.5.</p>
+
+<p>The observed range of the strong interactions whitin nuclei</p>
+
+<p>led Yukawa to estimate that λ/c is of the order of 200 electron</p>
+
+<p>masses.</p>
+
+<p>see [English.1], p. 30</p>
+
+<p>Взяв наблюдаемый радиус сильного взаимодействия между нук-</p>
+
+<p>лонами, Юкава сумел оценить, что /(λc) порядка 200 масс электрона.</p>
+
+<p>см. [Russian.1], стр. 39</p>
+
+<p>interaction picture: представление взаимодействия</p>
+
+<p>interference: интерференция</p>
+
+<p>inverse transformation: обратное преобразование</p>
+
+<p>irreducible representation: неприводимое представление</p>
+
+<p>is related to: имеет отношение к</p>
+
+<p>isotropic vector: изотропный вектор</p>
+
+<p>it is evident that: очевидно, что</p>
+
+<p>Example 3.9.6.</p>
+
+<p>From (2.2) it is evident that any solution of (2.7) satisfies</p>
+
+<p>(2.9).</p>
+
+<p>На основании (2.2) очевидно, что любое решение уравнения (2.7)</p>
+
+<p>удовлетворяет (2.9).</p>
+
+<p>3.10. J</p>
+
+<p>Jacobian: якобиан</p>
+
+<p>Jacobian matrix: матрица Якоби</p>
+
+<p>3.11. K</p>
+
+<p>kernel: ядро (отображения)</p>
+
+<p>Kerr metric: метрика Керра</p>
+
+<p>kinematics: кинематика</p>
+
+<p>Klein bottle: бутылка Клейна</p>
+
+<p>knot: узел</p>
+
+<p>3.12. L</p>
+
+<p>Lagrangian: лагранжиан</p>
+
+<p>lattice: структура (алгебраическая система)</p>
+
+<p>left side of equation: левая часть равенства</p>
+
+<p>left-distributive: дистрибутивен слева</p>
+
+<p>L’Hôspital’s rule: правило Лопиталя</p>
+
+<p>lift of correspondence: лифт соответствия; подъём соответствия</p>
+
+<p>lift of morphism: лифт морфизма; подъём морфизма</p>
+
+<p>lift of vector field: лифт векторного поля; подъём векторного поля</p>
+
+<p>limit: предел</p>
+
+<p>limit of correspondence with respect to the filter: предел соответствия</p>
+
+<p>по фильтру</p><empty-line /><p><image xlink:href="#_15.jpg" /></p>
+
+<p><image xlink:href="#_16.jpg" /></p>
+
+<p>24</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>limit of sequence: предел последовательности</p>
+
+<p>limit point: предельная точка</p>
+
+<p>limit set: предельное множество</p>
+
+<p>linearly dependent: линейно зависимые</p>
+
+<p>linearly independent: линейно независимые</p>
+
+<p>little group: малая группа</p>
+
+<p>locally compact space: локально компактное пространство</p>
+
+<p>loop (quasigroup with unit element): лупа (квазигруппа с единицей)</p>
+
+<p>Example 3.12.1.</p>
+
+<p>An algebra Q =&lt; Q, ../, ǫ &gt; equiped with binary operation of</p>
+
+<p>multiplication (.) and right division (/) and with a constant ǫ ∈ Q</p>
+
+<p>is called a right loop if &lt; Q, ., / &gt; is a right quasigroup such that additional identity ǫ.x = x is satisfied.</p>
+
+<p>see [English.3], p. 24</p>
+
+<p>Квазигруппа, обладающая единицей, называется лупой.</p>
+
+<p>см. [Russian.3], стр. 39</p>
+
+<p>Lorentz transformation: преобразование Лоренца</p>
+
+<p>lower index: нижний индекс</p>
+
+<p>3.13. M</p>
+
+<p>the Mach principle: принцип Маха</p>
+
+<p>manifolds with affine connections: пространство аффинной связности</p>
+
+<p>mapping: отображение</p>
+
+<p>mass: масса</p>
+
+<p>massive particle: массивная частица</p>
+
+<p>massless particle: безмассовая частица</p>
+
+<p>mathematical: математический</p>
+
+<p>mathematician: математик</p>
+
+<p>mathematics: математика</p>
+
+<p>mean value theorem: теорема о конечных приращениях</p>
+
+<p>measure: измерять</p>
+
+<p>measurement: измерение</p>
+
+<p>metric-affine manifold: аффинно-метрическое многообразие</p>
+
+<p>Milky Way: Млечный Путь</p>
+
+<p>mixed system: смешанная система</p>
+
+<p>Moebius band: лист Мёбиуса</p>
+
+<p>momentum: импульс</p>
+
+<p>monic polynomial: приведенный многочлен; унитарный многочлен</p>
+
+<p>monomial: одночлен</p>
+
+<p>monotone function: монотонная функция</p>
+
+<p>monotonic function: монотонная функция</p>
+
+<p>multiple root: кратный корень</p>
+
+<p>multiplication: умножение</p>
+
+<p>multiplication table: таблица умножения</p>
+
+<p>multiplicative group: мультипликативная группа</p><empty-line /><p><image xlink:href="#_17.jpg" /></p>
+
+<p><image xlink:href="#_18.jpg" /></p>
+
+<p><image xlink:href="#_19.jpg" /></p>
+
+<p><image xlink:href="#_20.jpg" /></p>
+
+<p>3.14. N</p>
+
+<p>25</p>
+
+<p>multiplicity of x in f : кратность x в f</p>
+
+<p>Example 3.13.1.</p>
+
+<p>If the multiplicity of a is greater then 1, a is called a multiple</p>
+
+<p>root.</p>
+
+<p>Если кратность a больше, чем 1, то a называется кратным корнем.</p>
+
+<p>multiply by 2: умножить на 2</p>
+
+<p>multiply by b: умножить на b</p>
+
+<p>muon: мюон</p>
+
+<p>mutually orthogonal: взаимно ортогональные; ортогональные друг дру-</p>
+
+<p>гу; попарно ортогональные</p>
+
+<p>Example 3.13.2.</p>
+
+<p>Let i be in Jp; since ei ∈ Tp and T is the direct sum of the</p>
+
+<p>mutually orthogonal subspaces T0, T1, ..., Ts, the hyperplane of T</p>
+
+<p>orthogonal to ei is of the form Li +T ′, where L</p>
+
+<p>p</p>
+
+<p>i is the hyperplane</p>
+
+<p>of Tp orthogonal to ei.</p>
+
+<p>see [English.7], p. 89</p>
+
+<p>Пусть i ∈ Jp. Так как ei ∈ Tp и T - прямая сумма попарно ор-</p>
+
+<p>тогональных подпространств T0, T1, ..., Ts, то гиперплоскость в T ,</p>
+
+<p>ортогональная к ei, имеет вид Li + T ′, где L</p>
+
+<p>p</p>
+
+<p>i - гиперплоскость в Tp,</p>
+
+<p>ортогональная к ei.</p>
+
+<p>см. [Russian.7], стр. 106</p>
+
+<p>mutually perpendicular: взаимно перпендикулярные; перпендикуляр-</p>
+
+<p>ные друг другу</p>
+
+<p>Example 3.13.3.</p>
+
+<p>We shall take two mutually perpendicular axes X′X and Y ′Y</p>
+
+<p>on a plane, with their point of intersection O as origin on each.</p>
+
+<p>see [English.5], p. 14</p>
+
+<p>Проведём на плоскости две взаимно перпендикулярные оси X′X</p>
+
+<p>и Y ′Y и возьмём за начало на каждой из них их точку пересечения</p>
+
+<p>O.</p>
+
+<p>см. [Russian.5], стр. 21</p>
+
+<p>3.14. N</p>
+
+<p>name index: именной указатель</p>
+
+<p>natural mapping: естественное отображение</p>
+
+<p>natural morphism: естественный морфизм</p>
+
+<p>necessary and sufficient: необходимо и достаточно</p>
+
+<p>Example 3.14.1.</p><empty-line /><p>26</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>In order that a system of equations (1) admit solution necessary</p>
+
+<p>and sufficient that there exist a positive integer N such that</p>
+
+<p>equations F1, ..., FN are compatible.</p>
+
+<p>Для того, что бы система (1) имела решение, необходимо и доста-</p>
+
+<p>точно, чтобы существовало такое положительное целое число N , что</p>
+
+<p>уравнения F1, ..., FN совместны.</p>
+
+<p>neighborhood: окрестность</p>
+
+<p>neutrino: нейтрино</p>
+
+<p>neutron: нейтрон</p>
+
+<p>neutron star: нейтронная звезда</p>
+
+<p>non-Abelian group: неабелевая группа</p>
+
+<p>nondegenerate form: невырожденная форма</p>
+
+<p>nontrivial: нетривиальный</p>
+
+<p>norm: норма</p>
+
+<p>Example 3.14.2.</p>
+
+<p>Norm on D ∗-vector space V over non-discrete valued skew</p>
+
+<p>∗</p>
+
+<p>field D is a mapping</p>
+
+<p>v ∈ V → p(v) ∈ R</p>
+
+<p>which satisfies the following axioms</p>
+
+<p>• p(v) ≥ 0</p>
+
+<p>• p(v) = 0 if, and only if, v = 0</p>
+
+<p>• p(v + w) ≤ p(v) + p(w)</p>
+
+<p>• p(av) = |a|p(v) for all a ∈ D and all v ∈ V</p>
+
+<p>Норма на D ∗-векторном пространстве V над недискретным нор-</p>
+
+<p>∗</p>
+
+<p>мированным телом D - это отображение</p>
+
+<p>v ∈ V → p(v) ∈ R</p>
+
+<p>такое, что</p>
+
+<p>• p(v) ≥ 0</p>
+
+<p>• p(v) = 0 равносильно v = 0</p>
+
+<p>• p(v + w) ≤ p(v) + p(w)</p>
+
+<p>• p(av) = |a|p(v) для всех a ∈ D и v ∈ V</p>
+
+<p>normed space: нормированное пространство</p>
+
+<p>nucleus: ядро (атома)</p>
+
+<p>numerator: числитель</p>
+
+<p>3.15. O</p>
+
+<p>obtain by differentiating: получить дифференцированием</p>
+
+<p>obtuse angle: тупой угол</p>
+
+<p>Occam’s razor: бритва Оккама</p>
+
+<p>operate: действовать</p>
+
+<p>Example 3.15.1.</p>
+
+<p>Operating on equation (1) with operator V yields an integral</p>
+
+<p>equation.</p><empty-line /><p>3.16. P</p>
+
+<p>27</p>
+
+<p>Подействовав на уравнение (1) оператором V , получим интеграль-</p>
+
+<p>ное уравнение.</p>
+
+<p>opposite preordering: противоположная предупорядоченность</p>
+
+<p>ordered set: упорядоченное множество</p>
+
+<p>ordering: упорядоченность</p>
+
+<p>orthonormal basis: ортонормированный базис</p>
+
+<p>3.16. P</p>
+
+<p>parallel transport: параллельный перенос</p>
+
+<p>parallelepiped: параллелепипед</p>
+
+<p>parity: чётность</p>
+
+<p>partial differential equation: уравнение в частных производных</p>
+
+<p>partial ordering: частичная упорядоченность</p>
+
+<p>partition of unity: разбиение единицы; разложение единицы</p>
+
+<p>Pasch’s axiom: аксиома Паша</p>
+
+<p>passage to the limit: предельный переход</p>
+
+<p>pericentre: перицентр</p>
+
+<p>perturbation: возмущение</p>
+
+<p>pfaffian derivative: пфаффова производная</p>
+
+<p>phenomena: явления</p>
+
+<p>phenomenon: явление</p>
+
+<p>photon: фотон</p>
+
+<p>physical: физический</p>
+
+<p>physicist: физик</p>
+
+<p>physics: физика</p>
+
+<p>point: точечный; точка</p>
+
+<p>polology: полология</p>
+
+<p>polyadditive map: полиаддитивное отображение</p>
+
+<p>polylinear form: полилинейная форма</p>
+
+<p>polynomial: многочлен; полином</p>
+
+<p>polyvector: поливектор</p>
+
+<p>poolback bundle: обратный образ расслоения; прообраз расслоения</p>
+
+<p>positive definite form: положительно определённая форма</p>
+
+<p>positive integer: натуральное число</p>
+
+<p>power of set: мощность множества</p>
+
+<p>precession: прецессия</p>
+
+<p>preordering: предупорядоченность</p>
+
+<p>prime ideal: простой идеал</p>
+
+<p>principal bundle: главное расслоение</p>
+
+<p>probability: вероятность</p>
+
+<p>problem: задача</p>
+
+<p>proceeding in this way: продолжая таким образом; продолжив этот про-</p>
+
+<p>цесс</p>
+
+<p>projection: проекция</p>
+
+<p>projective plane: проективная плоскость</p>
+
+<p>proof by induction: доказательство по индукции</p>
+
+<p>propagation: распространение</p>
+
+<p>proper state: собственное состояние</p><empty-line /><p><image xlink:href="#_21.jpg" /></p>
+
+<p><image xlink:href="#_22.jpg" /></p>
+
+<p>28</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>proper value: собственное значение</p>
+
+<p>pseudo-Euclidean space: псевдоевклидовое пространство</p>
+
+<p>pulsar: пульсар</p>
+
+<p>3.17. Q</p>
+
+<p>quantum entanglement: квантовая запутанность</p>
+
+<p>quark: кварк</p>
+
+<p>quasar: квазар</p>
+
+<p>quasigroup: квазигруппа</p>
+
+<p>Example 3.17.1.</p>
+
+<p>An algebra Q =&lt; Q, ., / &gt; equipped with binary operations</p>
+
+<p>of multiplications (.) and right division (/) which satisfy the</p>
+
+<p>identities</p>
+
+<p>(x/y).y = x</p>
+
+<p>(x. y)/y = x</p>
+
+<p>is called a right quasigroupp.</p>
+
+<p>see [English.3], p. 23</p>
+
+<p>Группоид, в котором для любых элеметов a, b однозначно разре-</p>
+
+<p>шимы уравнения</p>
+
+<p>ax = b, ya = b</p>
+
+<p>называется квазигруппой.</p>
+
+<p>см. [Russian.3], стр. 39</p>
+
+<p>quaternion: кватернион</p>
+
+<p>quotient bundle: фактор расслоение</p>
+
+<p>quotient group: факторгруппа</p>
+
+<p>quotient ring: факторкольцо</p>
+
+<p>quotient set: фактор множество</p>
+
+<p>quotient topology: фактортопология</p>
+
+<p>3.18. R</p>
+
+<p>radiation belt: радиационный пояс</p>
+
+<p>range: множество значений; область значений</p>
+
+<p>rational field: поле рациональных чисел</p>
+
+<p>∗D-linearly dependent: ∗D-линейно зависимые</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>∗D-linearly independent: ∗D-линейно независимые</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>∗D-vector space: ∗D-векторное пространство</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>real function: числовая функция</p>
+
+<p>real valued function: числовая функция</p>
+
+<p>reciprocal image: обратный образ</p>
+
+<p>reduced Cartesian product of bundles: приведенное декартово про-</p>
+
+<p>изведение расслоений</p>
+
+<p>reduced fibered correspondence: приведенное расслоенное соответствие</p>
+
+<p>reduction of similar terms: приведение подобных</p>
+
+<p>reference frame: система отсчёта</p>
+
+<p>reflexive: рефлексивный</p><empty-line /><p>3.19. S</p>
+
+<p>29</p>
+
+<p>regression: регрессия</p>
+
+<p>relation: отношение</p>
+
+<p>relevance: важность; значимость; существенность</p>
+
+<p>Example 3.18.1.</p>
+
+<p>Distinction between Lorentz and Poincaré groups is of no</p>
+
+<p>relevance here.</p>
+
+<p>Различие между группами Лоренца и Пуанкаре для нас сейчас не</p>
+
+<p>важно.</p>
+
+<p>remainder: остаток</p>
+
+<p>repeated root: кратный корень</p>
+
+<p>represent: представлять</p>
+
+<p>residue: вычет</p>
+
+<p>resistance: сопротивление</p>
+
+<p>resistivity: удельное сопротивление</p>
+
+<p>resonance: резонанс</p>
+
+<p>restriction of correspondence Φ to set C: сужение соответствия Φ на</p>
+
+<p>множество C</p>
+
+<p>retract: ретракт</p>
+
+<p>retraction: ретракция</p>
+
+<p>right angle: прямой угол</p>
+
+<p>right side of equation: правая часть равенства</p>
+
+<p>right-distributive: дистрибутивен справа</p>
+
+<p>ring of characteristic p: кольцо характеристики p</p>
+
+<p>ring of integers: кольцо целых чисел</p>
+
+<p>rotation group: группа вращения</p>
+
+<p>row vector: вектор строка</p>
+
+<p>3.19. S</p>
+
+<p>scale: масштаб</p>
+
+<p>scattering: рассеяние</p>
+
+<p>scattering amplitude: амплитуда рассеяния</p>
+
+<p>scattering from crystal: рассеяние на кристалле</p>
+
+<p>scattering theory: теория рассеяния</p>
+
+<p>secant: секанс</p>
+
+<p>section: сечение</p>
+
+<p>segment: отрезок</p>
+
+<p>seismology: сейсмология</p>
+
+<p>semiconductor: полупроводник</p>
+
+<p>semigroup: полугруппа</p>
+
+<p>series: ряд (бесконечная сумма)</p>
+
+<p>set of functions: семейство функций</p>
+
+<p>set of power of continuum: множество мощности континуум</p>
+
+<p>sieve of Eratosthenes: решето Эратосфена</p>
+
+<p>similar triangles: подобные треугольники</p>
+
+<p>simple polyvector: простой поливектор</p>
+
+<p>simple ring: простое кольцо</p>
+
+<p>simple root: простой корень</p><empty-line /><p><image xlink:href="#_23.jpg" /></p>
+
+<p><image xlink:href="#_24.jpg" /></p>
+
+<p>30</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>simplex: симплекс</p>
+
+<p>simply connected: односвязный</p>
+
+<p>sine: синус</p>
+
+<p>single transitive representation: однотранзитивное представление</p>
+
+<p>skew field: тело (кольцо с делением)</p>
+
+<p>skew product of vectors: косое произведение векторов</p>
+
+<p>skew-symmetric form: кососимметричная форма</p>
+
+<p>skew-symmetric tensor: кососимметричный тензор</p>
+
+<p>solar eclipse: затмение Солнца</p>
+
+<p>solution of differential equation: решение дифференциального урав-</p>
+
+<p>нения</p>
+
+<p>solve for the c: разрешить относительно c</p>
+
+<p>Example 3.19.1.</p>
+
+<p>Equation may be solved for the c.</p>
+
+<p>Уравнение можно разрешить относительно c.</p>
+
+<p>spacelike vector: пространственноподобный вектор</p>
+
+<p>special relativity: специальная теория относительности</p>
+
+<p>sphere: сфера</p>
+
+<p>spherical triangle: сферический треугольник</p>
+
+<p>splittable algebra: расщепляемая алгебра</p>
+
+<p>⋆D-linearly dependent: ⋆D-линейно зависимые</p>
+
+<p>⋆D-linearly independent: ⋆D-линейно независимые</p>
+
+<p>star-shaped domain: звёздная область</p>
+
+<p>Example 3.19.2.</p>
+
+<p>This result, known as the Poincaré lemma, will hold for</p>
+
+<p>star-shaped domains M ⊂ Rm, where "star-shaped" means that</p>
+
+<p>whenever x ∈ M , so is the entire line segment joining x to the</p>
+
+<p>origin: {λx : 0 ≤ λ ≤ 1} ⊂ M .</p>
+
+<p>see [English.4], p. 59</p>
+
+<p>Этот результат, известный как лемма Пуанкаре, будет справедлив</p>
+
+<p>для звёздных областей M ⊂ Rm. "Звёздность" означает, что с каждой</p>
+
+<p>точкой x область M содержит отрезок, соединяющий x с началом</p>
+
+<p>координат: {λx : 0 ≤ λ ≤ 1} ⊂ M .</p>
+
+<p>см. [Russian.4], стр. 94</p>
+
+<p>stationary state: стационарное состояние</p>
+
+<p>strictly monotone function: строго монотонная функция</p>
+
+<p>strictly monotonic function: строго монотонная функция</p>
+
+<p>strongly monotone function: строго монотонная функция</p>
+
+<p>strongly monotonic function: строго монотонная функция</p>
+
+<p>structural constants: структурные константы</p>
+
+<p>structure constants: структурные константы</p>
+
+<p>Example 3.19.3.</p>
+
+<p>Suppose g is any finite-dimensional Lie algebra, so by Theorem</p>
+
+<p>1.54 g is the Lie algebra of some Lie group G. If we introduce</p><empty-line /><p><image xlink:href="#_25.jpg" /></p>
+
+<p><image xlink:href="#_26.jpg" /></p>
+
+<p>3.20. T</p>
+
+<p>31</p>
+
+<p>a basis {v1, ..., vr} of g, then the Lie bracket of any two basis</p>
+
+<p>vectors must again be in g. Thus there are certain constants ck ,</p>
+
+<p>ij</p>
+
+<p>i, j, k = 1, ..., r, called the structure constants of g such that</p>
+
+<p>r</p>
+
+<p>[vi, vj] =</p>
+
+<p>ck v</p>
+
+<p>ij k</p>
+
+<p>i, j = 1, ..., r</p>
+
+<p>k=1</p>
+
+<p>see [English.4], p. 50</p>
+
+<p>Пусть g - произвольная конечномерная алгебра Ли, так что по</p>
+
+<p>теореме 1.54 g - алгебра Ли некоторой группы Ли G. Если ввести в</p>
+
+<p>алгебре Ли g базис {v1, ..., vr}, то скобка Ли любых двух базисных век-</p>
+
+<p>торов снова должна лежать в g. Таким образом, имеются некоторые</p>
+
+<p>постоянные ck , i, j, k = 1, ..., r, называемые структурными констан-</p>
+
+<p>ij</p>
+
+<p>тами алгебры Ли g, такие, что</p>
+
+<p>r</p>
+
+<p>[vi, vj] =</p>
+
+<p>ck v</p>
+
+<p>ij k</p>
+
+<p>i, j = 1, ..., r</p>
+
+<p>k=1</p>
+
+<p>см. [Russian.4], стр. 82</p>
+
+<p>subordinate: подчинённый</p>
+
+<p>Example 3.19.4.</p>
+
+<p>For each open cover Ua of X there is a partition of unity {ϕb}</p>
+
+<p>subordinate to the cover.</p>
+
+<p>Для любого открытого покрытия Ua многообразия X существует</p>
+
+<p>разложение единицы {ϕb}, подчинённое покрытию.</p>
+
+<p>subtrahend: вычитаемое</p>
+
+<p>summation convention: правило суммирования</p>
+
+<p>summer solstice: летнее солнцестояние</p>
+
+<p>surjection: сюръекция</p>
+
+<p>symmetric: симметричный</p>
+
+<p>symmetry: симметрия</p>
+
+<p>synchronization procedure: процедура синхронизации</p>
+
+<p>synchrotron: синхротрон</p>
+
+<p>system of total differential equations: система уравнений в полных диф-</p>
+
+<p>ференциалах</p>
+
+<p>3.20. T</p>
+
+<p>tail of vector: начало вектора</p>
+
+<p>tangent: тангенс</p>
+
+<p>Taylor series: Ряд Тейлора</p>
+
+<p>tensor of order 2: тензор валентности 2</p>
+
+<p>tensor product: тензорное произведение</p>
+
+<p>there exist: существует</p>
+
+<p>Example 3.20.1.</p>
+
+<p>There exists a positive integer N such that equations F1, ...,</p>
+
+<p>FN are compatible.</p><empty-line /><p>32</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>Существует такое положительное целое число N , что уравнения</p>
+
+<p>F1, ..., FN совместны.</p>
+
+<p>tidal acceleration: приливное ускорение</p>
+
+<p>timelike vector: времениподобный вектор</p>
+
+<p>to be coarser than: минорировать</p>
+
+<p>Example 3.20.2.</p>
+
+<p>Filter F is coarser than filter B.</p>
+
+<p>Фильтр F минорирует фильтр B.</p>
+
+<p>Example 3.20.3.</p>
+
+<p>Topology T1 is coarser than topology T2.</p>
+
+<p>Топология T1 минорирует топологию T2.</p>
+
+<p>to be finer than: мажорировать</p>
+
+<p>Example 3.20.4.</p>
+
+<p>Filter F is finer than filter B.</p>
+
+<p>Фильтр F мажорирует фильтр B.</p>
+
+<p>Example 3.20.5.</p>
+
+<p>Topology T1 is finer than topology T2.</p>
+
+<p>Топология T1 мажорирует топологию T2.</p>
+
+<p>topological space: топологическое пространство</p>
+
+<p>topology: топология</p>
+
+<p>torsion: кручение</p>
+
+<p>torus: тор</p>
+
+<p>total differential: полный дифференциал</p>
+
+<p>total ordering: линейная упорядоченность</p>
+
+<p>total space: тотальное пространство расслоения</p>
+
+<p>trajectory: траектория</p>
+
+<p>transition function: функция перехода</p>
+
+<p>transitive: транзитивный</p>
+
+<p>triangle: треугольник</p>
+
+<p>trigonometrical: тригонометрический</p>
+
+<p>trigonometry: тригонометрия</p>
+
+<p>trivial: тривиальный</p>
+
+<p>Tunguska Cosmic Body: тунгусский метеорит</p>
+
+<p>tuple: кортеж</p>
+
+<p>turbulence: турбулентность</p>
+
+<p>twin representation: парное представление</p>
+
+<p>two-sided ideal: двусторонний идеал</p>
+
+<p>3.21. U</p>
+
+<p>uniform continuity: равномерная непрерывность</p>
+
+<p>uniform space: равномерное пространство</p>
+
+<p>uniformly continuous function: равномерно непрерывная функция</p>
+
+<p>unit sphere: единичная сфера</p>
+
+<p>unless otherwise stated: если не оговорено противное</p><empty-line /><p><image xlink:href="#_27.jpg" /></p>
+
+<p><image xlink:href="#_28.jpg" /></p>
+
+<p><image xlink:href="#_29.jpg" /></p>
+
+<p><image xlink:href="#_30.jpg" /></p>
+
+<p>3.22. V</p>
+
+<p>33</p>
+
+<p>Example 3.21.1.</p>
+
+<p>Simply-connected commutative Lie groups are called vector</p>
+
+<p>(Lie) groups; unless stated otherwise, they are always given the</p>
+
+<p>R-vector space structure defined above.</p>
+
+<p>see [English.8], p. 282</p>
+
+<p>Односвязные коммутативные группы Ли называются векторны-</p>
+
+<p>ми группами (Ли); если специально не оговорено противное, будем в</p>
+
+<p>дальнейшем считать их наделёнными структурой векторного R-про-</p>
+
+<p>странства указанным выше способом.</p>
+
+<p>см. [Russian.8], стр. 7</p>
+
+<p>Example 3.21.2.</p>
+
+<p>In this section, E denotes a locally convex space and E′ its</p>
+
+<p>dual. Whenever we talk of the polar M ◦ of a set M in E (resp.</p>
+
+<p>E′), we shall always mean, unless otherwise stated, the polar of</p>
+
+<p>M relative to the duality between E and E′.</p>
+
+<p>see [English.6], p. 147</p>
+
+<p>Во всём дальнейшем, если E означает отделимое локально вы-</p>
+
+<p>пуклое пространство, под E′ понимается сопряжённое пространство,</p>
+
+<p>и, говоря о поляре M ◦ (соотв. M ′◦) множества M из E (соотв. M ′ из</p>
+
+<p>E′), мы всюду, где не оговорено противное, имеем в виду поляру мно-</p>
+
+<p>жества M (соотв. M ′) в E′ (соотв. E), определяемую двойственностью</p>
+
+<p>между E и E′.</p>
+
+<p>см. [Russian.6], стр. 212</p>
+
+<p>up to notation: с точностью до обозначений</p>
+
+<p>Example 3.21.3.</p>
+
+<p>I can repeat, up to notation, proof of theorem 2.1.</p>
+
+<p>Я могу с точностью до обозначений повторить доказательство тео-</p>
+
+<p>ремы 2.1.</p>
+
+<p>upper index: верхний индекс</p>
+
+<p>upstairs: вверху</p>
+
+<p>Example 3.21.4.</p>
+
+<p>We sum over any index which appears twice in the same</p>
+
+<p>term, once upstairs and once downstairs.</p>
+
+<p>Подразумевается сумма по любому индексу, появляющемуся два-</p>
+
+<p>жды в одном и том же слагаемом, один раз вверху, другой - внизу.</p>
+
+<p>3.22. V</p>
+
+<p>valued division ring: нормированное тело</p>
+
+<p>valued field: нормированное поле</p>
+
+<p>valued skew field: нормированное тело</p>
+
+<p>variable: переменная</p><empty-line /><p>34</p>
+
+<p>3. English Russian Dictionary</p>
+
+<p>vector bundle: векторное расслоение</p>
+
+<p>vector function: вектор-функция</p>
+
+<p>vector space: векторное пространство</p>
+
+<p>verify directly: непосредственная проверка доказывает</p>
+
+<p>Example 3.22.1.</p>
+
+<p>We verify directly that A is linear map.</p>
+
+<p>Непосредственная проверка показывает, что A - линейный опера-</p>
+
+<p>тор.</p>
+
+<p>Example 3.22.2.</p>
+
+<p>We verify the statement of the theorem directly.</p>
+
+<p>Мы можем доказать утверждение теоремы непосредственной про-</p>
+
+<p>веркой.</p>
+
+<p>vertex: вершина</p>
+
+<p>vertical: вертикальный</p>
+
+<p>vertices: вершины</p>
+
+<p>viscosity: вязкость</p>
+
+<p>3.23. W</p>
+
+<p>wave: волна</p>
+
+<p>winter solstice: зимнее солнцестояние</p>
+
+<p>without loss of generality: не нарушая общности; не уменьшая общ-</p>
+
+<p>ности</p>
+
+<p>3.24. Z</p>
+
+<p>Zermelo proposition: теорема Цермело</p>
+
+<p>zero divisor: делитель нуля</p><empty-line /><p>Глава 4</p>
+
+<p>Русско английский словарь</p>
+
+<p>4.1. A</p>
+
+<p>A-значная функция: A-valued function</p>
+
+<p>4.2. C</p>
+
+<p>∗ D-векторное пространство: ∗ D-vector space</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>4.3. D</p>
+
+<p>D∗ -векторное пространство: D∗ -vector space</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-векторное пространство: D ∗-vector space</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-вектор-функция: D ∗-vector function</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-линейно зависимые: D ∗-linearly dependent</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D ∗-линейно независимые: D ∗-linearly independent</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>D⋆-линейно зависимые: D⋆-linearly dependent</p>
+
+<p>D⋆-линейно независимые: D⋆-linearly independent</p>
+
+<p>4.4. R</p>
+
+<p>∗D-векторное пространство: ∗D-vector space</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>∗D-линейно зависимые: ∗D-linearly dependent</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>∗D-линейно независимые: ∗D-linearly independent</p>
+
+<p>∗</p>
+
+<p>∗</p>
+
+<p>4.5. S</p>
+
+<p>⋆D-линейно зависимые: ⋆D-linearly dependent</p>
+
+<p>⋆D-линейно независимые: ⋆D-linearly independent</p>
+
+<p>4.6. А</p>
+
+<p>абелевая группа: Abelian group</p>
+
+<p>абсолютная величина: absolute value</p>
+
+<p>автопараллельная кривая: auto parallel line</p>
+
+<p>аддитивная группа: additive group</p>
+
+<p>аксиома выбора: axiom of choice</p>
+
+<p>аксиома Паша: Pasch’s axiom</p>
+
+<p>алгебраический: algebraic</p>
+
+<p>алгебраическое дополнение матрицы: algebraic complement of matrix;</p>
+
+<p>cofactor of matrix</p>
+
+<p>алгебраическое расширение: algebraic extension</p>
+
+<p>амплитуда: amplitude</p>
+
+<p>амплитуда рассеяния: scattering amplitude</p>
+
+<p>35</p><empty-line /><p><image xlink:href="#_31.jpg" /></p>
+
+<p><image xlink:href="#_32.jpg" /></p>
+
+<p>36</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>аналитична по x (x - переменная): analytic in x (x is variable)</p>
+
+<p>Пример 4.6.1.</p>
+
+<p>Наши исследования будут относиться к области, в кото-</p>
+
+<p>рой ψa аналитичны по θ и x.</p>
+
+<p>i</p>
+
+<p>см. [Russian.9], стр. 7</p>
+
+<p>The following treatment applies to a domain in which ψa are analytic</p>
+
+<p>i</p>
+
+<p>in the θ’s and x’s,</p>
+
+<p>see [English.9], p. 1</p>
+
+<p>аннулятор: annihilator</p>
+
+<p>апоцентр: apocentre</p>
+
+<p>арккосеканс: arccosecant</p>
+
+<p>арккосинус: arccosine</p>
+
+<p>арккотангенс: arccotangent</p>
+
+<p>арксеканс: arcsecant</p>
+
+<p>арксинус: arcsine</p>
+
+<p>арктангенс: arctangent</p>
+
+<p>арность: arity</p>
+
+<p>ассоциативность: associativity</p>
+
+<p>ассоциативный: associative</p>
+
+<p>аттрактор: attractor</p>
+
+<p>аффинно-метрическое многообразие: metric-affine manifold</p>
+
+<p>4.7. Б</p>
+
+<p>база расслоенного соответствия: base of fibered correspondence</p>
+
+<p>базис в векторном пространстве: basis for vector space; basis of vector</p>
+
+<p>space</p>
+
+<p>базис векторного пространства: basis for vector space; basis of vector</p>
+
+<p>space</p>
+
+<p>базис топологии: base of topology</p>
+
+<p>базис фильтра: filter base</p>
+
+<p>банахова алгебра: Banach algebra</p>
+
+<p>банахово пространство: Banach space</p>
+
+<p>безмассовая частица: massless particle</p>
+
+<p>бесконечно малая величина: infinitesimal</p>
+
+<p>бесконечно малый: infinitesimal</p>
+
+<p>биекция: bijection</p>
+
+<p>бимодуль: bimodule</p>
+
+<p>бинарный: binary</p>
+
+<p>бритва Оккама: Occam’s razor</p>
+
+<p>бутылка Клейна: Klein bottle</p>
+
+<p>4.8. В</p>
+
+<p>важность: relevance</p><empty-line /><p><image xlink:href="#_33.jpg" /></p>
+
+<p><image xlink:href="#_34.jpg" /></p>
+
+<p><image xlink:href="#_35.jpg" /></p>
+
+<p><image xlink:href="#_36.jpg" /></p>
+
+<p>4.8. В</p>
+
+<p>37</p>
+
+<p>Пример 4.8.1.</p>
+
+<p>Различие между группами Лоренца и Пуанкаре для нас</p>
+
+<p>сейчас не важно.</p>
+
+<p>Distinction between Lorentz and Poincaré groups is of no relevance</p>
+
+<p>here.</p>
+
+<p>вверху: upstairs</p>
+
+<p>Пример 4.8.2.</p>
+
+<p>Подразумевается сумма по любому индексу, появляюще-</p>
+
+<p>муся дважды в одном и том же слагаемом, один раз вверху,</p>
+
+<p>другой - внизу.</p>
+
+<p>We sum over any index which appears twice in the same term, once</p>
+
+<p>upstairs and once downstairs.</p>
+
+<p>вектор столбец: column vector</p>
+
+<p>вектор строка: row vector</p>
+
+<p>векторное пространство: vector space</p>
+
+<p>векторное расслоение: vector bundle</p>
+
+<p>вектор-функция: vector function</p>
+
+<p>вероятность: probability</p>
+
+<p>вертикальный: vertical</p>
+
+<p>верхний индекс: upper index</p>
+
+<p>вершина: vertex</p>
+
+<p>вершины: vertices</p>
+
+<p>взаимно ортогональные: mutually orthogonal</p>
+
+<p>взаимно перпендикулярные: mutually perpendicular</p>
+
+<p>Пример 4.8.3.</p>
+
+<p>Проведём на плоскости две взаимно перпендикулярные</p>
+
+<p>оси X′X и Y ′Y и возьмём за начало на каждой из них их</p>
+
+<p>точку пересечения O.</p>
+
+<p>см. [Russian.5], стр. 21</p>
+
+<p>We shall take two mutually perpendicular axes X′X and Y ′Y on a</p>
+
+<p>plane, with their point of intersection O as origin on each.</p>
+
+<p>see [English.5], p. 14</p>
+
+<p>взаимодействие: interaction</p>
+
+<p>Пример 4.8.4.</p>
+
+<p>Взяв наблюдаемый радиус сильного взаимодействия меж-</p>
+
+<p>ду нуклонами, Юкава сумел оценить, что /(λc) порядка 200</p>
+
+<p>масс электрона.</p>
+
+<p>см. [Russian.1], стр. 39</p>
+
+<p>The observed range of the strong interactions whitin nuclei led Yukawa</p>
+
+<p>to estimate that λ/c is of the order of 200 electron masses.</p>
+
+<p>see [English.1], p. 30</p><empty-line /><p>38</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>внешнее произведение: exterior product</p>
+
+<p>внешний дифференциал: exterior differential</p>
+
+<p>внешняя алгебра: external algebra</p>
+
+<p>внешняя степень: external power</p>
+
+<p>внизу: downstairs</p>
+
+<p>Пример 4.8.5.</p>
+
+<p>Подразумевается сумма по любому индексу, появляюще-</p>
+
+<p>муся дважды в одном и том же слагаемом, один раз вверху,</p>
+
+<p>другой - внизу.</p>
+
+<p>We sum over any index which appears twice in the same term, once</p>
+
+<p>upstairs and once downstairs.</p>
+
+<p>возмущение: perturbation</p>
+
+<p>волна: wave</p>
+
+<p>вообще говоря: generally speaking; in general</p>
+
+<p>Пример 4.8.6.</p>
+
+<p>Однако, вообще говоря, это отображением не является</p>
+
+<p>D ∗-линейным.</p>
+
+<p>∗</p>
+
+<p>However in general this product is not D ∗-linear map.</p>
+
+<p>∗</p>
+
+<p>вполне интегрируемый: completely integrable</p>
+
+<p>времениподобный вектор: timelike vector</p>
+
+<p>вывести уравнение: develop equation</p>
+
+<p>выпуклая функция: convex function</p>
+
+<p>вычет: residue</p>
+
+<p>вычитаемое: subtrahend</p>
+
+<p>вязкость: viscosity</p>
+
+<p>4.9. Г</p>
+
+<p>галактика: galaxy</p>
+
+<p>геометрия: geometry</p>
+
+<p>гиперплоскость: hyperplane</p>
+
+<p>главное G-расслоение: G-principal bundle</p>
+
+<p>главное расслоение: principal bundle</p>
+
+<p>глобальная система позиционирования: Global Positioning System</p>
+
+<p>голономные координаты: holonomic coordinates</p>
+
+<p>гомеоморфизм: homeomorphism</p>
+
+<p>гомеоморфный: homeomorphic</p>
+
+<p>гомология: homology</p>
+
+<p>гомоморфизм: homomorphism</p>
+
+<p>гомотопия: homotopy</p>
+
+<p>гомотопный: homotopic</p>
+
+<p>горизонт событий: event horizon</p>
+
+<p>гравитационный зонд: gravity probe</p>
+
+<p>граница: boundary</p>
+
+<p>граничные условия: boundary conditions</p>
+
+<p>граф: graph</p>
+
+<p>группа вращения: rotation group</p><empty-line /><p><image xlink:href="#_37.jpg" /></p>
+
+<p>4.11. Е</p>
+
+<p>39</p>
+
+<p>4.10. Д</p>
+
+<p>двигатель: engine</p>
+
+<p>двусторонний идеал: two-sided ideal</p>
+
+<p>действовать: operate</p>
+
+<p>Пример 4.10.1.</p>
+
+<p>Подействовав на уравнение (1) оператором V , получим</p>
+
+<p>интегральное уравнение.</p>
+
+<p>Operating on equation (1) with operator V yields an integral equation.</p>
+
+<p>декартова система координат: Cartesian coordinate system</p>
+
+<p>декартова степень: Cartesian power</p>
+
+<p>декартово произведение: Cartesian product</p>
+
+<p>делитель нуля: zero divisor</p>
+
+<p>диаграмма соответствий: diagram of correspondences</p>
+
+<p>динамика: dynamics</p>
+
+<p>дискретная топология: discrete topology</p>
+
+<p>дискретное пространство: discrete space</p>
+
+<p>дистрибутивен слева: left-distributive</p>
+
+<p>дистрибутивен справа: right-distributive</p>
+
+<p>дистрибутивность умножения относительно сложения: distributive</p>
+
+<p>property of multiplication over addition</p>
+
+<p>дифракция: diffraction</p>
+
+<p>дифференциал Гато: the Gâteaux differential</p>
+
+<p>дифференциал Фреше: the Fréchet differential</p>
+
+<p>дифференцировать функцию по x: differentiate the function with respect</p>
+
+<p>to x</p>
+
+<p>дифференцируемая функция: differentiable function</p>
+
+<p>дифференцируемость: differentiability</p>
+
+<p>дифференцируемый по Гато: differentiable in the Gâteaux sense</p>
+
+<p>дифференцируемый по Фреше: differentiable in the Fréchet sense</p>
+
+<p>диффузия: diffusion</p>
+
+<p>диэлектрик: insulator</p>
+
+<p>доказательство по индукции: proof by induction</p>
+
+<p>дуальное пространство: dual space</p>
+
+<p>дуальный модуль: dual module</p>
+
+<p>4.11. Е</p>
+
+<p>единичная сфера: unit sphere</p>
+
+<p>единичный элемент: identity</p>
+
+<p>если не оговорено противное: unless otherwise stated</p>
+
+<p>Пример 4.11.1.</p>
+
+<p>Односвязные коммутативные группы Ли называются век-</p>
+
+<p>торными группами (Ли); если специально не оговорено про-</p>
+
+<p>тивное, будем в дальнейшем считать их наделёнными струк-</p>
+
+<p>турой векторного R-пространства указанным выше способом.</p>
+
+<p>см. [Russian.8], стр. 7</p><empty-line /><p><image xlink:href="#_38.jpg" /></p>
+
+<p><image xlink:href="#_39.jpg" /></p>
+
+<p><image xlink:href="#_40.jpg" /></p>
+
+<p><image xlink:href="#_41.jpg" /></p>
+
+<p>40</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>Simply-connected commutative Lie groups are called vector (Lie) groups;</p>
+
+<p>unless stated otherwise, they are always given the R-vector space structure defined above.</p>
+
+<p>see [English.8], p. 282</p>
+
+<p>Пример 4.11.2.</p>
+
+<p>Во всём дальнейшем, если E означает отделимое локаль-</p>
+
+<p>но выпуклое пространство, под E′ понимается сопряжённое</p>
+
+<p>пространство, и, говоря о поляре M ◦ (соотв. M ′◦) множества</p>
+
+<p>M из E (соотв. M ′ из E′), мы всюду, где не оговорено про-</p>
+
+<p>тивное, имеем в виду поляру множества M (соотв. M ′) в E′</p>
+
+<p>(соотв. E), определяемую двойственностью между E и E′.</p>
+
+<p>см. [Russian.6], стр. 212</p>
+
+<p>In this section, E denotes a locally convex space and E′ its dual.</p>
+
+<p>Whenever we talk of the polar M ◦ of a set M in E (resp. E′), we shall</p>
+
+<p>always mean, unless otherwise stated, the polar of M relative to the duality between E and E′.</p>
+
+<p>see [English.6], p. 147</p>
+
+<p>естественное отображение: natural mapping</p>
+
+<p>естественный морфизм: natural morphism</p>
+
+<p>4.12. З</p>
+
+<p>зависимость: dependence</p>
+
+<p>задача: problem</p>
+
+<p>закон ассоциативности: associative law</p>
+
+<p>закон дистрибутивности: distributive law</p>
+
+<p>закон сохранения: conservation law</p>
+
+<p>замена координат: change of coordinates</p>
+
+<p>замена переменной: change of variable</p>
+
+<p>замыкание множества: closure of the set</p>
+
+<p>затмение: eclipse</p>
+
+<p>затмение Солнца: solar eclipse</p>
+
+<p>звёздная область: star-shaped domain</p>
+
+<p>Пример 4.12.1.</p>
+
+<p>Этот результат, известный как лемма Пуанкаре, будет спра-</p>
+
+<p>ведлив для звёздных областей M ⊂ Rm. "Звёздность" озна-</p>
+
+<p>чает, что с каждой точкой x область M содержит отрезок,</p>
+
+<p>соединяющий x с началом координат: {λx : 0 ≤ λ ≤ 1} ⊂ M .</p>
+
+<p>см. [Russian.4], стр. 94</p>
+
+<p>This result, known as the Poincaré lemma, will hold for star-shaped</p>
+
+<p>domains M ⊂ Rm, where "star-shaped" means that whenever x ∈ M , so is the entire line segment joining x to the origin: {λx : 0 ≤ λ ≤ 1} ⊂ M .</p><empty-line /><p><image xlink:href="#_42.jpg" /></p>
+
+<p><image xlink:href="#_43.jpg" /></p>
+
+<p><image xlink:href="#_44.jpg" /></p>
+
+<p>4.14. К</p>
+
+<p>41</p>
+
+<p>see [English.4], p. 59</p>
+
+<p>зимнее солнцестояние: winter solstice</p>
+
+<p>знаменатель: denominator</p>
+
+<p>Пример 4.12.2.</p>
+
+<p>Приведём слагаемые к общему знаменателю.</p>
+
+<p>Let us reduce items to a common denominator.</p>
+
+<p>значимость: relevance</p>
+
+<p>4.13. И</p>
+
+<p>излучение фотона: emission of photon</p>
+
+<p>измерение: measurement</p>
+
+<p>измерять: measure</p>
+
+<p>изолятор: insulator</p>
+
+<p>изотропный вектор: isotropic vector</p>
+
+<p>имеет отношение к: has relevance to; is related to</p>
+
+<p>именной указатель: name index</p>
+
+<p>импульс: momentum</p>
+
+<p>индикатриса: indicatrix</p>
+
+<p>интерференция: interference</p>
+
+<p>инъекция: injection</p>
+
+<p>4.14. К</p>
+
+<p>калибровочная инвариантность: gauge invariance</p>
+
+<p>каноническое отображение: canonical map</p>
+
+<p>Пример 4.14.1.</p>
+
+<p>Отображение f группы G на G/H, построенное выше, на-</p>
+
+<p>зывается каноническим отображением, а G/H называется фак-</p>
+
+<p>торгруппой группы G по H.</p>
+
+<p>см. [Russian.2], стр. 28</p>
+
+<p>The map f of G onto G/H constructed above is called canonical map,</p>
+
+<p>and G/H is called the factor group of G by H.</p>
+
+<p>see [English.2], p. 14</p>
+
+<p>категория: category</p>
+
+<p>квазар: quasar</p>
+
+<p>квазигруппа: quasigroup</p>
+
+<p>Пример 4.14.2.</p>
+
+<p>Группоид, в котором для любых элеметов a, b однозначно</p>
+
+<p>разрешимы уравнения</p>
+
+<p>ax = b, ya = b</p>
+
+<p>называется квазигруппой.</p><empty-line /><p><image xlink:href="#_45.jpg" /></p>
+
+<p><image xlink:href="#_46.jpg" /></p>
+
+<p><image xlink:href="#_47.jpg" /></p>
+
+<p>42</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>см. [Russian.3], стр. 39</p>
+
+<p>An algebra Q =&lt; Q, ., / &gt; equipped with binary operations of multiplications (. ) and right division (/) which satisfy the identities</p>
+
+<p>(x/y). y = x</p>
+
+<p>(x. y)/y = x</p>
+
+<p>is called a right quasigroupp.</p>
+
+<p>see [English.3], p. 23</p>
+
+<p>квантовая запутанность: quantum entanglement</p>
+
+<p>кварк: quark</p>
+
+<p>кватернион: quaternion</p>
+
+<p>кинематика: kinematics</p>
+
+<p>класс эквивалентности: equivalence class</p>
+
+<p>ковариантный: covariant</p>
+
+<p>коллоквиум: colloquium</p>
+
+<p>коллоквиумы: colloquia</p>
+
+<p>кольцо характеристики p: ring of characteristic p</p>
+
+<p>кольцо целых чисел: ring of integers</p>
+
+<p>комбинаторика: combinatorics</p>
+
+<p>коммутативная диаграмма: commutative diagram</p>
+
+<p>коммутативность: commutativity</p>
+
+<p>коммутатор: commutator</p>
+
+<p>коммутирует: commute</p>
+
+<p>Пример 4.14.3.</p>
+
+<p>Так как P коммутирует с H, собственные состояния H</p>
+
+<p>могут быть помечены собственными значениями P .</p>
+
+<p>Because P commutes with H, the proper states of H can be labeled</p>
+
+<p>by proper values of P .</p>
+
+<p>see [English.10], p. 106</p>
+
+<p>компактно-открытая топология: compact-open topology</p>
+
+<p>конвекция: convection</p>
+
+<p>конгруэнтность: congruence</p>
+
+<p>конец вектора: head of vector</p>
+
+<p>конечное множество: finite set</p>
+
+<p>конечномерный: finite dimensional</p>
+
+<p>контравариантный: contravariant</p>
+
+<p>конформное преобразование: conformal transformation</p>
+
+<p>координатная карта: coordinate chart</p>
+
+<p>корреляция: correlation</p>
+
+<p>кортеж: tuple</p>
+
+<p>косеканс: cosecant</p>
+
+<p>косинус: cosine</p>
+
+<p>косое произведение векторов: skew product of vectors</p>
+
+<p>кососимметричная форма: skew-symmetric form</p><empty-line /><p><image xlink:href="#_48.jpg" /></p>
+
+<p><image xlink:href="#_49.jpg" /></p>
+
+<p>4.16. М</p>
+
+<p>43</p>
+
+<p>кососимметричный тензор: skew-symmetric tensor</p>
+
+<p>котангенс: cotangent</p>
+
+<p>коэффициенты связности: connection coefficients</p>
+
+<p>кратность x в f : multiplicity of x in f</p>
+
+<p>Пример 4.14.4.</p>
+
+<p>Если кратность a больше, чем 1, то a называется кратным</p>
+
+<p>корнем.</p>
+
+<p>If the multiplicity of a is greater then 1, a is called a multiple root.</p>
+
+<p>кратный корень: multiple root; repeated root</p>
+
+<p>кривая: curve</p>
+
+<p>криволинейные координаты: curvilinear coordinates</p>
+
+<p>кристаллическая решётка: crystal lattice</p>
+
+<p>кручение: torsion</p>
+
+<p>4.15. Л</p>
+
+<p>лагранжиан: Lagrangian</p>
+
+<p>левая часть равенства: left side of equation</p>
+
+<p>летнее солнцестояние: summer solstice</p>
+
+<p>линейная упорядоченность: total ordering</p>
+
+<p>линейно зависимые: linearly dependent</p>
+
+<p>линейно независимые: linearly independent</p>
+
+<p>лист Мёбиуса: Moebius band</p>
+
+<p>лифт векторного поля: lift of vector field</p>
+
+<p>лифт морфизма: lift of morphism</p>
+
+<p>лифт соответствия: lift of correspondence</p>
+
+<p>локально компактное пространство: locally compact space</p>
+
+<p>лупа (квазигруппа с единицей): loop (quasigroup with unit element)</p>
+
+<p>Пример 4.15.1.</p>
+
+<p>Квазигруппа, обладающая единицей, называется лупой.</p>
+
+<p>см. [Russian.3], стр. 39</p>
+
+<p>An algebra Q =&lt; Q, ../, ǫ &gt; equiped with binary operation of multiplication (. ) and right division (/) and with a constant ǫ ∈ Q is called a right loop if &lt; Q, ., / &gt; is a right quasigroup such that additional identity ǫ.x = x is satisfied.</p>
+
+<p>see [English.3], p. 24</p>
+
+<p>4.16. М</p>
+
+<p>мажорировать: to be finer than</p>
+
+<p>Пример 4.16.1.</p>
+
+<p>Фильтр F мажорирует фильтр B.</p>
+
+<p>Filter F is finer than filter B.</p>
+
+<p>Пример 4.16.2.</p>
+
+<p>Топология T1 мажорирует топологию T2.</p>
+
+<p>Topology T1 is finer than topology T2.</p><empty-line /><p>44</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>малая группа: little group</p>
+
+<p>масса: mass</p>
+
+<p>массивная частица: massive particle</p>
+
+<p>масштаб: scale</p>
+
+<p>математик: mathematician</p>
+
+<p>математика: mathematics</p>
+
+<p>математический: mathematical</p>
+
+<p>матрица Якоби: Jacobian matrix</p>
+
+<p>метрика Керра: Kerr metric</p>
+
+<p>минорировать: to be coarser than</p>
+
+<p>Пример 4.16.3.</p>
+
+<p>Фильтр F минорирует фильтр B.</p>
+
+<p>Filter F is coarser than filter B.</p>
+
+<p>Пример 4.16.4.</p>
+
+<p>Топология T1 минорирует топологию T2.</p>
+
+<p>Topology T1 is coarser than topology T2.</p>
+
+<p>Млечный Путь: Milky Way</p>
+
+<p>многочлен: polynomial</p>
+
+<p>множество значений: range</p>
+
+<p>множество мощности континуум: set of power of continuum</p>
+
+<p>множитель: factor</p>
+
+<p>момент количества движения: angular momentum</p>
+
+<p>монотонная функция: monotone function; monotonic function</p>
+
+<p>морфизм отождествления: identification morphism</p>
+
+<p>морфизм расслоений: fibered map</p>
+
+<p>мощность множества: power of set</p>
+
+<p>мультипликативная группа: multiplicative group</p>
+
+<p>мюон: muon</p>
+
+<p>4.17. Н</p>
+
+<p>на первый взгляд: at first glance; at first sight</p>
+
+<p>наибольший общий делитель p и q: highest common factor of p and</p>
+
+<p>q</p>
+
+<p>накрытие: covering space</p>
+
+<p>Пример 4.17.1.</p>
+
+<p>Рассмотрим накрытие R → S1 окружности S1, определён-</p>
+
+<p>ное формулой p(t) = (sin t, cos t) для любого t ∈ R.</p>
+
+<p>Consider the covering space R → S1 of the circle S1 defined by p(t) =</p>
+
+<p>(sin t, cos t) for any t ∈ R.</p>
+
+<p>натуральное число: positive integer</p>
+
+<p>начало вектора: tail of vector</p>
+
+<p>не нарушая общности: without loss of generality</p>
+
+<p>не уменьшая общности: without loss of generality</p>
+
+<p>неабелевая группа: non-Abelian group</p>
+
+<p>невырожденная форма: nondegenerate form</p>
+
+<p>неголономность: anholonomity</p><empty-line /><p>4.17. Н</p>
+
+<p>45</p>
+
+<p>неголономные координаты: anholonomic coordinates</p>
+
+<p>нейтрино: neutrino</p>
+
+<p>нейтрон: neutron</p>
+
+<p>нейтронная звезда: neutron star</p>
+
+<p>необходимо и достаточно: necessary and sufficient</p>
+
+<p>Пример 4.17.2.</p>
+
+<p>Для того, что бы система (1) имела решение, необходи-</p>
+
+<p>мо и достаточно, чтобы существовало такое положительное</p>
+
+<p>целое число N , что уравнения F1, ..., FN совместны.</p>
+
+<p>In order that a system of equations (1) admit solution necessary and</p>
+
+<p>sufficient that there exist a positive integer N such that equations F1, ..., FN are compatible.</p>
+
+<p>неоднородная группа Лоренца: inhomogeneous Lorentz group</p>
+
+<p>неоднородный: inhomogeneous</p>
+
+<p>непосредственная проверка доказывает: verify directly</p>
+
+<p>Пример 4.17.3.</p>
+
+<p>Непосредственная проверка показывает, что A - линейный</p>
+
+<p>оператор.</p>
+
+<p>We verify directly that A is linear map.</p>
+
+<p>Пример 4.17.4.</p>
+
+<p>Мы можем доказать утверждение теоремы непосредствен-</p>
+
+<p>ной проверкой.</p>
+
+<p>We verify the statement of the theorem directly.</p>
+
+<p>непрерывен в окрестности: continuous in neighborhood</p>
+
+<p>непрерывный по x: continuous in x</p>
+
+<p>неприводимое представление: irreducible representation</p>
+
+<p>неравенство: inequation</p>
+
+<p>нетривиальный: nontrivial</p>
+
+<p>нижний индекс: lower index</p>
+
+<p>норма: absolute value; norm</p>
+
+<p>Пример 4.17.5.</p>
+
+<p>Норма на D ∗-векторном пространстве V над недискрет-</p>
+
+<p>∗</p>
+
+<p>ным нормированным телом D - это отображение</p>
+
+<p>v ∈ V → p(v) ∈ R</p>
+
+<p>такое, что</p>
+
+<p>• p(v) ≥ 0</p>
+
+<p>• p(v) = 0 равносильно v = 0</p>
+
+<p>• p(v + w) ≤ p(v) + p(w)</p>
+
+<p>• p(av) = |a|p(v) для всех a ∈ D и v ∈ V</p>
+
+<p>Norm on D ∗-vector space V over non-discrete valued skew field D is</p>
+
+<p>∗</p>
+
+<p>a mapping</p>
+
+<p>v ∈ V → p(v) ∈ R</p>
+
+<p>which satisfies the following axioms</p>
+
+<p>• p(v) ≥ 0</p>
+
+<p>• p(v) = 0 if, and only if, v = 0</p><empty-line /><p>46</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>• p(v + w) ≤ p(v) + p(w)</p>
+
+<p>• p(av) = |a|p(v) for all a ∈ D and all v ∈ V</p>
+
+<p>Пример 4.17.6.</p>
+
+<p>Норма на теле D - это отображение</p>
+
+<p>d ∈ D → |d| ∈ R</p>
+
+<p>такое, что</p>
+
+<p>• |a| ≥ 0</p>
+
+<p>• |a| = 0 равносильно a = 0</p>
+
+<p>• |ab| = |a| |b|</p>
+
+<p>• |a + b| ≤ |a| + |b|</p>
+
+<p>Absolute value on skew field D is a mapping</p>
+
+<p>d ∈ D → |d| ∈ R</p>
+
+<p>which satisfies the following axioms</p>
+
+<p>• |a| ≥ 0</p>
+
+<p>• |a| = 0 if, and only if, a = 0</p>
+
+<p>• |ab| = |a| |b|</p>
+
+<p>• |a + b| ≤ |a| + |b|</p>
+
+<p>нормированное поле: valued field</p>
+
+<p>нормированное пространство: normed space</p>
+
+<p>нормированное тело: valued division ring; valued skew field</p>
+
+<p>4.18. О</p>
+
+<p>обвёртывающая алгебра: enveloping algebra</p>
+
+<p>область значений: range</p>
+
+<p>область определения: domain</p>
+
+<p>образ при отображении: image under map</p>
+
+<p>Пример 4.18.1.</p>
+
+<p>Мы определим образ множества A при соответствии Φ</p>
+
+<p>согласно равенству</p>
+
+<p>AΦ = {b : (a, b) ∈ Φ, a ∈ A}</p>
+
+<p>We define the image of the set A under correspondence Φ according</p>
+
+<p>to law</p>
+
+<p>AΦ = {b : (a, b) ∈ Φ, a ∈ A}</p>
+
+<p>образующая: generator</p>
+
+<p>обратно: conversely</p>
+
+<p>обратное преобразование: inverse transformation</p>
+
+<p>обратный образ: reciprocal image</p>
+
+<p>обратный образ расслоения: poolback bundle</p>
+
+<p>обращение Адамара: Hadamard inverse</p>
+
+<p>общая теория относительности: general relativity</p><empty-line /><p><image xlink:href="#_50.jpg" /></p>
+
+<p><image xlink:href="#_51.jpg" /></p>
+
+<p>4.19. П</p>
+
+<p>47</p>
+
+<p>объект неголономности: anholonomity object</p>
+
+<p>огибающая семейства плоских кривых: envelope of a family of plane</p>
+
+<p>curves</p>
+
+<p>однородная группа Лоренца: homogeneous Lorentz group</p>
+
+<p>однородный: homogeneous</p>
+
+<p>односвязный: simply connected</p>
+
+<p>однотранзитивное представление: single transitive representation</p>
+
+<p>одночлен: monomial</p>
+
+<p>окрестность: neighborhood</p>
+
+<p>оператор замыкания: closure operator</p>
+
+<p>оператор рождения: creation operator</p>
+
+<p>оператор уничтожения: annihilation operator</p>
+
+<p>определяет: define</p>
+
+<p>Пример 4.18.2.</p>
+
+<p>Это уравнение определяет обратное преобразование.</p>
+
+<p>This equation defines the inverse transformation.</p>
+
+<p>ортогональные друг другу: mutually orthogonal</p>
+
+<p>ортонормированный базис: orthonormal basis</p>
+
+<p>остаток: remainder</p>
+
+<p>острый угол: acute angle</p>
+
+<p>отношение: relation</p>
+
+<p>отображение: mapping</p>
+
+<p>отождествление: identification</p>
+
+<p>отрезок: segment</p>
+
+<p>очевидно: evidently</p>
+
+<p>Пример 4.18.3.</p>
+
+<p>Существует, очевидно, только одно решение f = 0.</p>
+
+<p>см. [Russian.9], стр. 14</p>
+
+<p>The only solution is evidently f = 0.</p>
+
+<p>see [English.9], p. 7</p>
+
+<p>очевидно, что: it is evident that</p>
+
+<p>Пример 4.18.4.</p>
+
+<p>На основании (2.2) очевидно, что любое решение уравне-</p>
+
+<p>ния (2.7) удовлетворяет (2.9).</p>
+
+<p>From (2.2) it is evident that any solution of (2.7) satisfies (2.9).</p>
+
+<p>очевидность: evidence</p>
+
+<p>4.19. П</p>
+
+<p>параллелепипед: parallelepiped</p>
+
+<p>параллельный перенос: parallel transport</p>
+
+<p>парное представление: twin representation</p>
+
+<p>переменная: variable</p>
+
+<p>периодичность Ботта: Bott periodicity</p><empty-line /><p>48</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>перицентр: pericentre</p>
+
+<p>перпендикулярные друг другу: mutually perpendicular</p>
+
+<p>по крайней мере: at least</p>
+
+<p>Пример 4.19.1.</p>
+
+<p>По крайней мере, в окрестности единичного элемента.</p>
+
+<p>At least in the neighborhood of the identity.</p>
+
+<p>поведение: behavior</p>
+
+<p>поглощение фотона: absorption of photon</p>
+
+<p>подобные треугольники: similar triangles</p>
+
+<p>подобным образом: in a similar way</p>
+
+<p>Пример 4.19.2.</p>
+
+<p>Подобным образом мы можем определить координатную</p>
+
+<p>систему отсчёта.</p>
+
+<p>In a similar way, we can introduce a coordinate reference frame.</p>
+
+<p>подстановка a вместо x: evaluating by equating x to the a</p>
+
+<p>подчинённый: subordinate</p>
+
+<p>Пример 4.19.3.</p>
+
+<p>Для любого открытого покрытия Ua многообразия X су-</p>
+
+<p>ществует разложение единицы {ϕb}, подчинённое покрытию.</p>
+
+<p>For each open cover Ua of X there is a partition of unity {ϕb} subordinate to the cover.</p>
+
+<p>подъём векторного поля: lift of vector field</p>
+
+<p>подъём морфизма: lift of morphism</p>
+
+<p>подъём соответствия: lift of correspondence</p>
+
+<p>покомпонентно: componentwise</p>
+
+<p>покрытие: cover</p>
+
+<p>поле комплексных чисел: complex field</p>
+
+<p>поле рациональных чисел: rational field</p>
+
+<p>полиаддитивное отображение: polyadditive map</p>
+
+<p>поливектор: polyvector</p>
+
+<p>полилинейная форма: polylinear form</p>
+
+<p>полином: polynomial</p>
+
+<p>полная система: complete system</p>
+
+<p>полная структура: complete lattice</p>
+
+<p>полное поле: complete field</p>
+
+<p>полное пространство: complete space</p>
+
+<p>полное тело: complete division ring</p>
+
+<p>полный дифференциал: total differential</p>
+
+<p>положительно определённая форма: positive definite form</p>
+
+<p>полология: polology</p>
+
+<p>полугруппа: semigroup</p>
+
+<p>полупроводник: semiconductor</p>
+
+<p>получить дифференцированием: obtain by differentiating</p>
+
+<p>попарно ортогональные: mutually orthogonal</p>
+
+<p>Пример 4.19.4.</p><empty-line /><p><image xlink:href="#_52.jpg" /></p>
+
+<p><image xlink:href="#_53.jpg" /></p>
+
+<p>4.19. П</p>
+
+<p>49</p>
+
+<p>Пусть i ∈ Jp. Так как ei ∈ Tp и T - прямая сумма попарно</p>
+
+<p>ортогональных подпространств T0, T1, ..., Ts, то гиперплос-</p>
+
+<p>кость в T , ортогональная к ei, имеет вид Li + T ′, где L</p>
+
+<p>p</p>
+
+<p>i - ги-</p>
+
+<p>перплоскость в Tp, ортогональная к ei.</p>
+
+<p>см. [Russian.7], стр. 106</p>
+
+<p>Let i be in Jp; since ei ∈ Tp and T is the direct sum of the mutually</p>
+
+<p>orthogonal subspaces T0, T1, ..., Ts, the hyperplane of T orthogonal to ei is of the form Li + T ′, where L</p>
+
+<p>p</p>
+
+<p>i is the hyperplane of Tp orthogonal to ei.</p>
+
+<p>see [English.7], p. 89</p>
+
+<p>порождённый: generated</p>
+
+<p>Пример 4.19.5.</p>
+
+<p>Алгебра A, порождённая множеством S, является K-ал-</p>
+
+<p>геброй.</p>
+
+<p>Algebra A generated by the set S is a K-algebra</p>
+
+<p>последовательность Коши: Cauchy sequence</p>
+
+<p>правая часть равенства: right side of equation</p>
+
+<p>правило дифференцирования сложной функции: chain rule</p>
+
+<p>правило Крамера: Cramer’s Rule</p>
+
+<p>правило Лопиталя: L’Hôspital’s rule</p>
+
+<p>правило суммирования: summation convention</p>
+
+<p>предел: limit</p>
+
+<p>предел последовательности: limit of sequence</p>
+
+<p>предел соответствия по фильтру: limit of correspondence with respect</p>
+
+<p>to the filter</p>
+
+<p>предельная точка: limit point</p>
+
+<p>предельное множество: limit set</p>
+
+<p>предельный переход: passage to the limit</p>
+
+<p>представление взаимодействия: interaction picture</p>
+
+<p>представлять: represent</p>
+
+<p>предупорядоченность: preordering</p>
+
+<p>преобразование Лоренца: Lorentz transformation</p>
+
+<p>прецессия: precession</p>
+
+<p>приближение: approximation</p>
+
+<p>приведение подобных: reduction of similar terms</p>
+
+<p>приведенное декартово произведение расслоений: reduced Cartesian</p>
+
+<p>product of bundles</p>
+
+<p>приведенное расслоенное соответствие: reduced fibered correspondence</p>
+
+<p>приведенный многочлен: monic polynomial</p>
+
+<p>приливное ускорение: tidal acceleration</p>
+
+<p>принцип Маха: the Mach principle</p>
+
+<p>присоединённая группа: adjoint group</p>
+
+<p>присоединить: adjoin</p>
+
+<p>Пример 4.19.6.</p><empty-line /><p><image xlink:href="#_54.jpg" /></p>
+
+<p><image xlink:href="#_55.jpg" /></p>
+
+<p>50</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>Мы присоединим к (2.7) все уравнения, полученные при-</p>
+
+<p>равниванием 0 тех коммутаторов, которые не выражаются в</p>
+
+<p>форме (2.10).</p>
+
+<p>см. [Russian.9], стр. 13, 14</p>
+
+<p>We adjoin to (2.7) all the equations obtained by equating to 0 those</p>
+
+<p>commutators which are not expressible in the form (2,10).</p>
+
+<p>see [English.9], p. 7</p>
+
+<p>причинное векторное поле: causal vector field</p>
+
+<p>причинное скалярное поле: causal scalar field</p>
+
+<p>причинно-следственная связь: causal relationship</p>
+
+<p>продолжая таким образом: proceeding in this way</p>
+
+<p>продолжение соответствия: extension of correspondence</p>
+
+<p>продолжив этот процесс: proceeding in this way</p>
+
+<p>проективная плоскость: projective plane</p>
+
+<p>проекция: projection</p>
+
+<p>производная второго или более высокого порядка по : derivative</p>
+
+<p>of second or greater order with respect</p>
+
+<p>производная Гато: the Gâteaux derivative</p>
+
+<p>производная Фреше: the Fréchet derivative</p>
+
+<p>прообраз расслоения: poolback bundle</p>
+
+<p>простое кольцо: simple ring</p>
+
+<p>простой идеал: prime ideal</p>
+
+<p>простой корень: simple root</p>
+
+<p>простой поливектор: simple polyvector</p>
+
+<p>пространственноподобный вектор: spacelike vector</p>
+
+<p>пространство аффинной связности: manifolds with affine connections</p>
+
+<p>пространство событий: event space</p>
+
+<p>противоположная предупорядоченность: opposite preordering</p>
+
+<p>противоречие: contradiction</p>
+
+<p>Пример 4.19.7.</p>
+
+<p>Полученное противоречие доказывает теорему.</p>
+
+<p>The contradiction completes the proof of the theorem.</p>
+
+<p>процедура синхронизации: synchronization procedure</p>
+
+<p>процесс ортогонализации Грама–Шмидта: Gram-Schmidt orthogonalization</p>
+
+<p>procedure</p>
+
+<p>прямой угол: right angle</p>
+
+<p>псевдоевклидовое пространство: pseudo-Euclidean space</p>
+
+<p>пульсар: pulsar</p>
+
+<p>пфаффова производная: pfaffian derivative</p>
+
+<p>4.20. Р</p>
+
+<p>равномерная непрерывность: uniform continuity</p>
+
+<p>равномерно непрерывная функция: uniformly continuous function</p>
+
+<p>равномерное пространство: uniform space</p><empty-line /><p>4.21. С</p>
+
+<p>51</p>
+
+<p>радиационный пояс: radiation belt</p>
+
+<p>разбиение единицы: partition of unity</p>
+
+<p>разложение единицы: partition of unity</p>
+
+<p>разложение на множители: factorization</p>
+
+<p>разложение отображения: decomposition of map</p>
+
+<p>разложить на множители: factor</p>
+
+<p>Пример 4.20.1.</p>
+
+<p>Чтобы разложить многочлен на множители, необходимо</p>
+
+<p>найти два или более многочленов, произведение которых есть</p>
+
+<p>данный многочлен.</p>
+
+<p>To factor a polynomial means to find two or more polynomials whose</p>
+
+<p>product is the given polynomial.</p>
+
+<p>разность: difference</p>
+
+<p>разрешить относительно c: solve for the c</p>
+
+<p>Пример 4.20.2.</p>
+
+<p>Уравнение можно разрешить относительно c.</p>
+
+<p>Equation may be solved for the c.</p>
+
+<p>распространение: propagation</p>
+
+<p>рассеяние: scattering</p>
+
+<p>рассеяние на кристалле: scattering from crystal</p>
+
+<p>расслоенная алгебра: algebra bundle</p>
+
+<p>расслоенная группа: group bundle</p>
+
+<p>расслоенное произведение: fibered product</p>
+
+<p>расслоенное соответствие: fibered correspondence</p>
+
+<p>рассматривать: consider</p>
+
+<p>Пример 4.20.3.</p>
+
+<p>Рассмотрим соответствие Φ из множества A в множество</p>
+
+<p>B.</p>
+
+<p>Consider correspondence from set A to set B.</p>
+
+<p>расширение поля: extension field</p>
+
+<p>расширенный: enhanced</p>
+
+<p>расщепляемая алгебра: splittable algebra</p>
+
+<p>регрессия: regression</p>
+
+<p>резонанс: resonance</p>
+
+<p>ретракт: retract</p>
+
+<p>ретракция: retraction</p>
+
+<p>рефлексивный: reflexive</p>
+
+<p>решение дифференциального уравнения: solution of differential equation</p>
+
+<p>решето Эратосфена: sieve of Eratosthenes</p>
+
+<p>ряд (бесконечная сумма): series</p>
+
+<p>Ряд Тейлора: Taylor series</p>
+
+<p>4.21. С</p>
+
+<p>с точностью до обозначений: up to notation</p><empty-line /><p><image xlink:href="#_56.jpg" /></p>
+
+<p><image xlink:href="#_57.jpg" /></p>
+
+<p>52</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>Пример 4.21.1.</p>
+
+<p>Я могу с точностью до обозначений повторить доказа-</p>
+
+<p>тельство теоремы 2.1.</p>
+
+<p>I can repeat, up to notation, proof of theorem 2.1.</p>
+
+<p>самая сильная топология: finest topology</p>
+
+<p>самая слабая топология: coarsest topology</p>
+
+<p>сверхтонкое расщепление: hyperfine splitting</p>
+
+<p>свободное представление: free representation</p>
+
+<p>связная группа: connected group</p>
+
+<p>сейсмология: seismology</p>
+
+<p>секанс: secant</p>
+
+<p>семейство функций: set of functions</p>
+
+<p>сечение: section</p>
+
+<p>сила: force</p>
+
+<p>Пример 4.21.2.</p>
+
+<p>В 1935 году Хидеки Юкава предложил совершенно новую</p>
+
+<p>квантовую теорию поля для описания ядерных сил.</p>
+
+<p>см. [Russian.1], стр. 39</p>
+
+<p>In 1935, Hideki Yukawa proposed a quite different field theory of the</p>
+
+<p>nuclear force.</p>
+
+<p>see [English.1], p. 29, 30</p>
+
+<p>сила трения: friction</p>
+
+<p>симметричный: symmetric</p>
+
+<p>симметрия: symmetry</p>
+
+<p>симплекс: simplex</p>
+
+<p>синус: sine</p>
+
+<p>синхротрон: synchrotron</p>
+
+<p>система замыканий: closure system</p>
+
+<p>система отсчёта: reference frame</p>
+
+<p>система уравнений в полных дифференциалах: system of total differential</p>
+
+<p>equations</p>
+
+<p>сколь угодно малый: as small as we please</p>
+
+<p>слой: fiber</p>
+
+<p>смежный угол: adjacent angle</p>
+
+<p>смешанная система: mixed system</p>
+
+<p>собственное значение: proper value</p>
+
+<p>собственное состояние: proper state</p>
+
+<p>согласно теореме 2.1: according to theorem 2.1; By Theorem 2,1</p>
+
+<p>Пример 4.21.3.</p>
+
+<p>Согласно теореме 2.1 треугольники ABC и DBC равны.</p>
+
+<p>According to theorem 2.1, triangles ABC and DBC equal.</p>
+
+<p>Пример 4.21.4.</p>
+
+<p>Согласно теореме 2.1, a = b.</p>
+
+<p>By Theorem 2.1, a = b.</p><empty-line /><p><image xlink:href="#_58.jpg" /></p>
+
+<p><image xlink:href="#_59.jpg" /></p>
+
+<p>4.21. С</p>
+
+<p>53</p>
+
+<p>согласованность: congruence</p>
+
+<p>соглашение: convention</p>
+
+<p>Пример 4.21.5.</p>
+
+<p>Мы пользуемся соглашением, что в заданном векторном</p>
+
+<p>пространстве мы представляем любое семейство векторов в</p>
+
+<p>виде строки.</p>
+
+<p>We use the convention that we present any set of vectors of the vector</p>
+
+<p>space as a row.</p>
+
+<p>сомножитель: factor</p>
+
+<p>соответствие из A в B: correspondence from A to B</p>
+
+<p>сопротивление: resistance</p>
+
+<p>сопряжённый кватернион: conjugate quaternion</p>
+
+<p>специальная теория относительности: special relativity</p>
+
+<p>спиральная структура: helical structure</p>
+
+<p>спиральность: helicity</p>
+
+<p>сравнимые топологии: comparable topology</p>
+
+<p>стационарное состояние: stationary state</p>
+
+<p>степень отображения: degree of map</p>
+
+<p>строго монотонная функция: strictly monotone function; strictly monotonic function; strongly monotone function; strongly monotonic function</p>
+
+<p>структура (алгебраическая система): lattice</p>
+
+<p>структурные константы: structural constants; structure constants</p>
+
+<p>Пример 4.21.6.</p>
+
+<p>Пусть g - произвольная конечномерная алгебра Ли, так</p>
+
+<p>что по теореме 1.54 g - алгебра Ли некоторой группы Ли G.</p>
+
+<p>Если ввести в алгебре Ли g базис {v1, ..., vr}, то скобка Ли</p>
+
+<p>любых двух базисных векторов снова должна лежать в g.</p>
+
+<p>Таким образом, имеются некоторые постоянные ck , i, j, k =</p>
+
+<p>ij</p>
+
+<p>1, ..., r, называемые структурными константами алгебры Ли g,</p>
+
+<p>такие, что</p>
+
+<p>r</p>
+
+<p>[vi, vj] =</p>
+
+<p>ck v</p>
+
+<p>ij k</p>
+
+<p>i, j = 1, ..., r</p>
+
+<p>k=1</p>
+
+<p>см. [Russian.4], стр. 82</p>
+
+<p>Suppose g is any finite-dimensional Lie algebra, so by Theorem 1.54 g</p>
+
+<p>is the Lie algebra of some Lie group G. If we introduce a basis {v1, ..., vr}</p>
+
+<p>of g, then the Lie bracket of any two basis vectors must again be in g.</p>
+
+<p>Thus there are certain constants ck , i, j, k = 1, ..., r, called the structure ij</p>
+
+<p>constants of g such that</p>
+
+<p>r</p>
+
+<p>[vi, vj] =</p>
+
+<p>ck v</p>
+
+<p>ij k</p>
+
+<p>i, j = 1, ..., r</p>
+
+<p>k=1</p>
+
+<p>see [English.4], p. 50</p><empty-line /><p>54</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>сужение соответствия Φ на множество C: restriction of correspondence</p>
+
+<p>Φ to set C</p>
+
+<p>существенность: relevance</p>
+
+<p>существенные параметры семейства функций: essential parameters</p>
+
+<p>in a set of functions</p>
+
+<p>существует: there exist</p>
+
+<p>Пример 4.21.7.</p>
+
+<p>Существует такое положительное целое число N , что урав-</p>
+
+<p>нения F1, ..., FN совместны.</p>
+
+<p>There exists a positive integer N such that equations F1, ..., FN are</p>
+
+<p>compatible.</p>
+
+<p>сфера: sphere</p>
+
+<p>сферический треугольник: spherical triangle</p>
+
+<p>сходиться: converge</p>
+
+<p>Пример 4.21.8.</p>
+
+<p>Фильтр F сходится к x.</p>
+
+<p>Filter F converges to x.</p>
+
+<p>счётное множество: countable set</p>
+
+<p>счётчик: counter</p>
+
+<p>сюръекция: surjection</p>
+
+<p>4.22. Т</p>
+
+<p>таблица умножения: multiplication table</p>
+
+<p>тангенс: tangent</p>
+
+<p>тело (кольцо с делением): division ring; skew field</p>
+
+<p>тензор валентности 2: tensor of order 2</p>
+
+<p>тензор напряжённости поля: field-strength tensor</p>
+
+<p>тензорное произведение: tensor product</p>
+
+<p>теорема Белла: Bell’s theorem</p>
+
+<p>теорема о конечных приращениях: mean value theorem</p>
+
+<p>теорема Цермело: Zermelo proposition</p>
+
+<p>теория графов: graph theory</p>
+
+<p>теория рассеяния: scattering theory</p>
+
+<p>тогда и только тогда, когда: iff</p>
+
+<p>Пример 4.22.1.</p>
+
+<p>a = 0 тогда и только тогда, когда aj = 0 для любых i, j.</p>
+
+<p>i</p>
+
+<p>a = 0 iff aj = 0 for any i, j.</p>
+
+<p>i</p>
+
+<p>тождественные частицы: identical particles</p>
+
+<p>топологическое пространство: topological space</p>
+
+<p>топология: topology</p>
+
+<p>тор: torus</p>
+
+<p>тотальное пространство расслоения: total space</p>
+
+<p>точечный: point</p>
+
+<p>точка: point</p>
+
+<p>точка прикосновения: cluster point</p><empty-line /><p>4.24. Ф</p>
+
+<p>55</p>
+
+<p>точная последовательность модулей: exact sequence of modules</p>
+
+<p>траектория: trajectory</p>
+
+<p>транзитивный: transitive</p>
+
+<p>трение: friction</p>
+
+<p>треугольник: triangle</p>
+
+<p>тривиализация над U : chart over U</p>
+
+<p>тривиальный: trivial</p>
+
+<p>тригонометрический: trigonometrical</p>
+
+<p>тригонометрия: trigonometry</p>
+
+<p>тунгусский метеорит: Tunguska Cosmic Body</p>
+
+<p>тупой угол: obtuse angle</p>
+
+<p>турбулентность: turbulence</p>
+
+<p>4.23. У</p>
+
+<p>угол: angle</p>
+
+<p>угол отражения: angle of reflection</p>
+
+<p>угол падения: angle of incidence</p>
+
+<p>угол преломления: angle of refraction</p>
+
+<p>удельное сопротивление: resistivity</p>
+
+<p>узел: knot</p>
+
+<p>умножение: multiplication</p>
+
+<p>умножить на 2: multiply by 2</p>
+
+<p>умножить на b: multiply by b</p>
+
+<p>унитарный многочлен: monic polynomial</p>
+
+<p>упорядоченное множество: ordered set</p>
+
+<p>упорядоченность: ordering</p>
+
+<p>уравнение в частных производных: partial differential equation</p>
+
+<p>уравнение удовлетворяется тождественно: equation is satisfied identically ускорение: acceleration</p>
+
+<p>ускоритель: accelerator</p>
+
+<p>условия интегрируемости: conditions of integrability</p>
+
+<p>4.24. Ф</p>
+
+<p>фактор множество: quotient set</p>
+
+<p>фактор модуль: difference module</p>
+
+<p>фактор расслоение: quotient bundle</p>
+
+<p>факторгруппа: factor group; quotient group</p>
+
+<p>факторкольцо: quotient ring</p>
+
+<p>фактортопология: quotient topology</p>
+
+<p>физик: physicist</p>
+
+<p>физика: physics</p>
+
+<p>физический: physical</p>
+
+<p>фильтр: filter</p>
+
+<p>финслеровая метрика: Finsler metric; Finslerian metric</p>
+
+<p>фотон: photon</p>
+
+<p>фундаментальная последовательность: fundamental sequence</p>
+
+<p>функтор: functor</p>
+
+<p>функции склеивания: gluing functions</p><empty-line /><p>56</p>
+
+<p>4. Русско английский словарь</p>
+
+<p>функционал: functional</p>
+
+<p>функция f от x: function f of x</p>
+
+<p>функция перехода: transition function</p>
+
+<p>4.25. Х</p>
+
+<p>хаос: chaos</p>
+
+<p>4.26. Ц</p>
+
+<p>цикл: cycle</p>
+
+<p>циклическая группа: cyclic group</p>
+
+<p>4.27. Ч</p>
+
+<p>частичная упорядоченность: partial ordering</p>
+
+<p>частота: frequency</p>
+
+<p>чётность: parity</p>
+
+<p>числитель: numerator</p>
+
+<p>числовая функция: real function; real valued function</p>
+
+<p>4.28. Э</p>
+
+<p>эвклидова метрика: Euclidean metric</p>
+
+<p>эвклидово пространство: Euclidean space</p>
+
+<p>эквивалентность: equivalence relation</p>
+
+<p>экстремальная кривая: extreme line</p>
+
+<p>экстремальный: extremal; extreme</p>
+
+<p>эксцентриситет: eccentricity</p>
+
+<p>элементарная частица: elementary particle</p>
+
+<p>эндоморфизм: endomorphism</p>
+
+<p>энергия: energy</p>
+
+<p>энтропия: entropy</p>
+
+<p>Эрлангенская программа: Erlanger Program</p>
+
+<p>эрмитова форма: hermitian form</p>
+
+<p>эффект Доплера: Doppler shift</p>
+
+<p>4.29. Я</p>
+
+<p>явление: phenomenon</p>
+
+<p>явления: phenomena</p>
+
+<p>ядро (атома): nucleus</p>
+
+<p>ядро (отображения): kernel</p>
+
+<p>якобиан: Jacobian</p><empty-line /><p>Глава 5</p>
+
+<p>Name index</p>
+
+<p>Yakir Aharonov Якир Ааронов</p>
+
+<p>Lewis Carroll Льюис Кэррол</p>
+
+<p>James Waddell Alexander Джеймс</p>
+
+<p>Elie Joseph Cartan Эли Жозеф Картан</p>
+
+<p>Уэдделл Александер</p>
+
+<p>Henri Paul Cartan Анри Поль Картaн</p>
+
+<p>Victor Amazaspovich Ambartsumian</p>
+
+<p>Hendrik Casimir Хендрик Казимир</p>
+
+<p>Виктор Амазаспович Амбарцумян</p>
+
+<p>Guido Castelnuovo Гвидо Кастельнуово</p>
+
+<p>André-Marie Ampère Андре-Мари</p>
+
+<p>Augustin Louis Cauchy Августин Коши</p>
+
+<p>Ампер</p>
+
+<p>Owen Chamberlain Оуэн Чемберлен</p>
+
+<p>Carl David Anderson Карл Дейвид</p>
+
+<p>Shiing-Shen Chern Шиинг-Шен Черн</p>
+
+<p>Андерсон</p>
+
+<p>N. A. Chernikov Н. А. Черников</p>
+
+<p>Archimedes Архимед</p>
+
+<p>Geoffrey Foucar Chew Джеффри Фаукар</p>
+
+<p>Emil Artin Эмиль Артин</p>
+
+<p>Чу</p>
+
+<p>Cesare Arzelà Чезаре Арцела</p>
+
+<p>Elwin Bruno Chritoffel Эльвин Бруно</p>
+
+<p>Alain Aspect Ален Аспект</p>
+
+<p>Кристоффель</p>
+
+<p>Michael Atiyah Майкл Атья</p>
+
+<p>William Clifford Уильям Клиффорд</p>
+
+<p>Pierre Victor Auger Пьер Виктор Оже</p>
+
+<p>Paul Moritz Cohn П. Кон</p>
+
+<p>Amedeo Avogadro Амедео Авогадро</p>
+
+<p>Alain Connes Ален Конн</p>
+
+<p>John Horton Conway Джон Хортон</p>
+
+<p>Walter Baade Вальтер Бааде</p>
+
+<p>Конвей</p>
+
+<p>John C. Baez Джон С. Баез</p>
+
+<p>Leon Niels Cooper Леон Нил Купер</p>
+
+<p>Stefan Banach Стефан Банах</p>
+
+<p>Gabriel Cramer Габриель Крамер</p>
+
+<p>John Bardeen Джон Бардин</p>
+
+<p>Luigi Cremona Луиджи Кремона</p>
+
+<p>Asim Orhan Barut Асим Орхан Барут</p>
+
+<p>Tatyana Baturina Татьяна Батурина</p>
+
+<p>Jean Le Rond d’Alembert Жан Лерон</p>
+
+<p>John Stewart Bell Джон Стюарт Белл</p>
+
+<p>Д’Аламбер</p>
+
+<p>Felix Alexandrovich Berezin Феликс</p>
+
+<p>Leonardo da Vinci Леонардо да Винчи</p>
+
+<p>Александрович Березин</p>
+
+<p>Louis de Broglie Луи де Бройль</p>
+
+<p>Peter Gabriel Bergmann П. Г. Бергман</p>
+
+<p>René Descartes Рене Декарт</p>
+
+<p>Jacob Bernoulli Яков Бернулли</p>
+
+<p>James Dewar Джеймс Дьюар</p>
+
+<p>George Birkhoff Джордж Биркхоф</p>
+
+<p>Bryce S. DeWitt Брайс С. Девитт</p>
+
+<p>Nikolai Bogoliubov Николай Боголюбов</p>
+
+<p>Jean Alexandre Eugène Dieudonné Жан</p>
+
+<p>David Joseph Bohm Дэвид Джозеф Бом</p>
+
+<p>Александр Эжен Дьедонне</p>
+
+<p>Niels Bohr Нильс Бор</p>
+
+<p>Paul Dirac Пауль Дирак</p>
+
+<p>Ludwig Boltzmann Людвиг Больцман</p>
+
+<p>Johann Peter Gustav Lejeune Dirichlet</p>
+
+<p>Bernhard Bolzano Бернард Больцано</p>
+
+<p>Иоганн Петер Густав Лежён</p>
+
+<p>Félix Borel Феликс Борель</p>
+
+<p>Дирихле</p>
+
+<p>Max Born Макс Борн</p>
+
+<p>Christian Doppler Христиан Допплер</p>
+
+<p>Satyendra Nath Bose Шатьендранат Бозе</p>
+
+<p>Frank Watson Dyson Франк Уотсон</p>
+
+<p>Raoul Bott Рауль Ботт</p>
+
+<p>Дайсон</p>
+
+<p>Nicolas Bourbaki Никола Бурбаки</p>
+
+<p>Freeman John Dyson Фримен Джон</p>
+
+<p>Дайсон</p>
+
+<p>Eugenio Calabi Калаби</p>
+
+<p>Georg Cantor Георг Кантор</p>
+
+<p>Arthur Stanley Eddington Артур Стэнли</p>
+
+<p>Constantin Caratheodory Константин</p>
+
+<p>Эддингтон</p>
+
+<p>Каратеодори</p>
+
+<p>Werner Ehrenberg Вернер Эренберг</p>
+
+<p>Sadi Carnot Сади Карно</p>
+
+<p>Paul Ehrenfest Пауль Эренфест</p>
+
+<p>57</p><empty-line /><p>58</p>
+
+<p>Name index</p>
+
+<p>Samuel Eilenberg Самуил Эйленберг</p>
+
+<p>Felix Hausdorff Феликс Хаусдорф</p>
+
+<p>Albert Einstein Альберт Эйнштейн</p>
+
+<p>S. W. Hawking С. В. Хокинг</p>
+
+<p>Luther Pfahler Eisenhart Л. П.</p>
+
+<p>Friedrich W. Hehl Фридрих Хель</p>
+
+<p>Эйзенхарт</p>
+
+<p>Werner Heisenberg Вернер Гейзенберг</p>
+
+<p>Lev Elsgolts Л. Э. Эльсгольц</p>
+
+<p>Heinrich Rudolf Hertz Генрих Рудольф</p>
+
+<p>Federigo Enriques Федериго Энрикес</p>
+
+<p>Герц</p>
+
+<p>Euclid Эвклид</p>
+
+<p>Victor Franz Hess Виктор Франц Гесс</p>
+
+<p>Leonhard Euler Леонард Эйлер</p>
+
+<p>Antony Hewish Энтони Хьюиш</p>
+
+<p>David Hilbert Давид Гильберт</p>
+
+<p>Carl Faith Карл Фейс</p>
+
+<p>Heinz Hopf Хайнц Хопф</p>
+
+<p>Michael Faraday Майкл Фарадей</p>
+
+<p>Edwin Hubble Эдвин Хаббл</p>
+
+<p>Pierre Fermat Пьер Ферма</p>
+
+<p>Adolf Hurwitz Адольф Гурвиц</p>
+
+<p>Enrico Fermi Энрико Ферми</p>
+
+<p>Richard Feynman Ричард Фейнман</p>
+
+<p>Leopold Infeld Леопольд Инфельд</p>
+
+<p>Grigorii Mikhailovich Fikhtengolts</p>
+
+<p>Dmitri Iwanenko Дмитрий Дмитриевич</p>
+
+<p>Григорий Михайлович Фихтенгольц</p>
+
+<p>Иваненко</p>
+
+<p>Serge˘i Pavlovich Finikov Сергей</p>
+
+<p>Павлович Фиников</p>
+
+<p>Carl Jacobi Карл Якоби</p>
+
+<p>Paul Finsler Пауль Финслер</p>
+
+<p>Nathan Jacobson Натан Джекобсон</p>
+
+<p>Armand-Hippolyte-Louis Fizeau Арман</p>
+
+<p>Pascual Jordan Паскуаль Иордан</p>
+
+<p>Ипполит Луи Физо</p>
+
+<p>Heike Kamerlingh Onnes Хейке</p>
+
+<p>John Ambrose Fleming Джон Амброз</p>
+
+<p>Камерлинг-Оннес</p>
+
+<p>Флеминг</p>
+
+<p>Pyotr Kapitsa Пётр Капица</p>
+
+<p>Serge˘i Vasil’evich Fomin Сергей</p>
+
+<p>Max Karoubi Макс Каруби</p>
+
+<p>Васильевич Фомин</p>
+
+<p>Johann Kepler Иоганн Кеплер</p>
+
+<p>James Forbes Джеймс Форбс</p>
+
+<p>Roy Patrick Kerr Рой Патрик Керр</p>
+
+<p>Joseph Fourier Джозеф Фурье</p>
+
+<p>Gustav Robert Kirchhoff Густав Роберт</p>
+
+<p>Maurice René Fréchet Морис Рене Фреше</p>
+
+<p>Кирхгоф</p>
+
+<p>George Francis Джордж Франсис</p>
+
+<p>Felix Klein Феликс Клейн</p>
+
+<p>Benjamin Franklin Франклин</p>
+
+<p>Oskar Klein Оскар Клейн</p>
+
+<p>Бенджамин</p>
+
+<p>Shoshichi Kobayashi С. Кобаяси</p>
+
+<p>Alexander Friedmann Александр</p>
+
+<p>Andre˘i Nikolaevich Kolmogorov Андрей</p>
+
+<p>Фридман</p>
+
+<p>Николаевич Колмогоров</p>
+
+<p>René Eugène Gâteaux Рене Эжен Гато</p>
+
+<p>Robert Kraichnan Роберт Крайчнан</p>
+
+<p>Galileo Galilei Галилео Галилей</p>
+
+<p>Leopold Kronecker Леопольд Кронекер</p>
+
+<p>Galois Галуа</p>
+
+<p>Martin Kruskal Мартин Крускал</p>
+
+<p>Carl Friedrich Gauss Карл Фридрих</p>
+
+<p>Kazimierz Kuratowski Казимир</p>
+
+<p>Гаусс</p>
+
+<p>Куратовский</p>
+
+<p>Israel Moiseevich Gelfand Израиль</p>
+
+<p>Guillaume François de L’Hôpital Гиймон</p>
+
+<p>Моисеевич Гельфанд</p>
+
+<p>Франсуа де Лопиталь</p>
+
+<p>Murray Gell-Mann Мюррей Гелл-Манн</p>
+
+<p>Joseph Louis Lagrange Жозеф Луи</p>
+
+<p>Josiah Willard Gibbs Джозайя Уиллард</p>
+
+<p>Лагранж</p>
+
+<p>Гиббс</p>
+
+<p>Lev Landau Лев Ландау</p>
+
+<p>Marvin Leonard Goldberger Мэрвин</p>
+
+<p>Serge Lang Серж Ленг</p>
+
+<p>Леонард Гольдбергер</p>
+
+<p>Pierre-Simon Laplace Пьер-Симон</p>
+
+<p>Walter Gordon Вальтер Гордон</p>
+
+<p>Лаплас</p>
+
+<p>Samuel Abraham Goudsmit Сэмюэл</p>
+
+<p>Henri Lebesgue Анри Лебег</p>
+
+<p>Абрахам Гаудсмит</p>
+
+<p>Joel Lebowitz Джоэль Лейбовиц</p>
+
+<p>Hermann Günther Grassmann Герман</p>
+
+<p>Leon Max Lederman Леон Макс</p>
+
+<p>Гюнтер Грассман</p>
+
+<p>Ледерман</p>
+
+<p>Marcel Grossman Марсель Гроссман</p>
+
+<p>Adrien-Marie Legendre Адриен Мари</p>
+
+<p>A Grothendieck А Гротендик</p>
+
+<p>Лежандр</p>
+
+<p>Jacques Hadamard Жак Адамар</p>
+
+<p>Gottfried Wilhelm Leibniz Готфрид</p>
+
+<p>Georg Karl Wilhelm Hamel Георг Карл</p>
+
+<p>Вильгельм Лейбниц</p>
+
+<p>Вильгельм Гамель</p>
+
+<p>Joseph Lense Джозеф Лензе</p>
+
+<p>William Rowan Hamilton Вильям Роуэн</p>
+
+<p>Andre Lichnerowicz Андрэ Лихнерович</p>
+
+<p>Гамильтон</p>
+
+<p>Andrei Linde Андрей Линде</p><empty-line /><p>Name index</p>
+
+<p>59</p>
+
+<p>Joseph Liouville Жозеф Лиувилль</p>
+
+<p>Bernhard Riemann Бернхард Риман</p>
+
+<p>Nikolai Ivanovich Lobachevsky Николай</p>
+
+<p>Ole Christensen Roemer Оле Кристенсен</p>
+
+<p>Иванович Лобачевский</p>
+
+<p>Рёмер</p>
+
+<p>Hendrik Antoon Lorentz Хендрик Антон</p>
+
+<p>Michel Rolle Мишель Ролль</p>
+
+<p>Лоренц</p>
+
+<p>Marshall Nicholas Rosenbluth Маршалл</p>
+
+<p>Edward Norton Lorenz Эдвард Нортон</p>
+
+<p>Николас Розенблют</p>
+
+<p>Лоренц</p>
+
+<p>Carlo Rovelli Карло Ровелли</p>
+
+<p>Hanno Rund Ханно Рунд</p>
+
+<p>James Clerk Maxwell Джеймс Клерк</p>
+
+<p>Karl David Tolme Runge Карл Давид</p>
+
+<p>Максвелл</p>
+
+<p>Тольме Рунге</p>
+
+<p>Lise Meitner Лиза Мейтнер</p>
+
+<p>Bertrand Russell Бертран Рассел</p>
+
+<p>Robert Millikan Роберт Миликен</p>
+
+<p>Ernest Rutherford Эрнест Резерфорд</p>
+
+<p>John Willard Milnor Джон Уиллард</p>
+
+<p>Милнор</p>
+
+<p>Edwin Ernest Salpeter Эдвин Эрнест</p>
+
+<p>Hermann Minkowski Герман</p>
+
+<p>Сальпетер</p>
+
+<p>Минковский</p>
+
+<p>Schmidt Шмидт</p>
+
+<p>Charles W. Misner Чарлз Мизнер</p>
+
+<p>Erwin Schrödinger Эрвин Шредингер</p>
+
+<p>Eliakim Hastings Moore Элиаким</p>
+
+<p>John Schrieffer Джон Шриффер</p>
+
+<p>Гастингс Мур</p>
+
+<p>Jacob Schwartz Дж. Шварц</p>
+
+<p>Holger Mueller Холгер Мюллер</p>
+
+<p>Karl Schwarzschild Карл Шварцшильд</p>
+
+<p>Julian Schwinger Джулиус Швингер</p>
+
+<p>Newton Ньютон</p>
+
+<p>Corrado Segre Коррадо Сегре</p>
+
+<p>John von Neyman Джон фон Нейман</p>
+
+<p>Jean-Pierre Serre Жан Пьер Серр</p>
+
+<p>Emmy Noether Эмми Нётер</p>
+
+<p>Waclaw Sierpinski Вацлав Серпинский</p>
+
+<p>Katsumi Nomizu К. Номидзу</p>
+
+<p>James Harris Simons Джеймс Харрис</p>
+
+<p>Симонс</p>
+
+<p>Yuri Obukhov Юрий Обухов</p>
+
+<p>Dmitriy Skobeltsin Дмитрий Скобельцин</p>
+
+<p>William of Ockham Уильям Оккам</p>
+
+<p>Lee Smolin Ли Смолин</p>
+
+<p>Peter Olver Питер Олвер</p>
+
+<p>Arnold Sommerfeld Арнольд</p>
+
+<p>Robert Oppenheimer Роберт</p>
+
+<p>Зоммерфельд</p>
+
+<p>Опенгеймер</p>
+
+<p>Norman Steenrod Норман Стинрод</p>
+
+<p>Moritz Pasch Мориц Паш</p>
+
+<p>Paul Steinhardt Поль Штейнхардт</p>
+
+<p>Blaise Paskal Блез Паскаль</p>
+
+<p>Shlomo Sternberg Соломон Стернберг</p>
+
+<p>Wolfgang Pauli Вольфганг Паули</p>
+
+<p>Eduard Stiefel Эдуард Штифель</p>
+
+<p>Giuseppe Peano Джузеппе Пеано</p>
+
+<p>Thomas Joannes Stieltjes Томас Иоаннес</p>
+
+<p>James Peebles Джеймс Пиблс</p>
+
+<p>Стилтьес</p>
+
+<p>Julius Plücker Юлий Плюкер</p>
+
+<p>James Stirling Джеймс Стирлинг</p>
+
+<p>Max Planck Макс Планк</p>
+
+<p>George Gabriel Stokes Джордж Габриель</p>
+
+<p>Jules Henri Poincaré Жюль Анри</p>
+
+<p>Стокс</p>
+
+<p>Пуанкаре</p>
+
+<p>Eduard Study Эдуард Стади</p>
+
+<p>Siméon-Denis Poisson Симеон-Дени</p>
+
+<p>Jacques Charles Fracois Sturm Жак</p>
+
+<p>Пуассон</p>
+
+<p>Шарль Франсуа Штурм</p>
+
+<p>George Polya Джордж Пойа</p>
+
+<p>Anthony Sudbery Энтони Садбери</p>
+
+<p>Isaac Pomeranchuk Исаак Яковлевич</p>
+
+<p>Leonard Susskind Леонард Сасскинд</p>
+
+<p>Померанчук</p>
+
+<p>Leo Szilard Лео Сцилард</p>
+
+<p>Jean-François Pommaret Жан-Франсуа</p>
+
+<p>Alfred Tarski Альфред Тарский</p>
+
+<p>Поммаре</p>
+
+<p>Hans Thirring Ганс Тирринг</p>
+
+<p>Lev Semenovich Pontryagin Лев</p>
+
+<p>Walter Thirring Вальтер Тирринг</p>
+
+<p>Семёнович Понтрягин</p>
+
+<p>George Paget Thomson Джордж Паджет</p>
+
+<p>Cecil Frank Powell Сесил Фрэнк Пауэлл</p>
+
+<p>Томсон</p>
+
+<p>Ryszard Ra</p>
+
+<p>. czka Р Рончка</p>
+
+<p>Kip S. Thorne Кип Торн</p>
+
+<p>Isidor Isaac Rabi Исидор Айзек Раби</p>
+
+<p>Richard Tolman Ричард Толмен</p>
+
+<p>Martin Rees Мартин Рис</p>
+
+<p>George Eugene Uhlenbeck Джордж</p>
+
+<p>Kurt Werner Friedrich Reidemeister</p>
+
+<p>Юджин Уленбек</p>
+
+<p>Курт Вернер Фридрих Рейдемейстер</p>
+
+<p>William Reynolds Вильям Рейнольдс</p>
+
+<p>James Van Allen Джеймс Ван Аллен</p>
+
+<p>Gregorio Ricci Грегорио Риччи</p>
+
+<p>Alex Vilenkin Алекс Виленкин</p><empty-line /><p>60</p>
+
+<p>Name index</p>
+
+<p>Valerii Vinokur Валерий Винокур</p>
+
+<p>Max von Laue Макс фон Лауэ</p>
+
+<p>Wilhelm Eduard Weber Вильгельм</p>
+
+<p>Эдуард Вебер</p>
+
+<p>Karl Theodor Wilhelm Weierstrass Карл</p>
+
+<p>Теодор Вильгельм Вейерштрасс</p>
+
+<p>André Weil Андре Вейль</p>
+
+<p>Steven Weinberg Стивен Вайнберг</p>
+
+<p>Hermann Weyl Герман Вейль</p>
+
+<p>John Archibald Wheeler Джон Арчибалд</p>
+
+<p>Уилер</p>
+
+<p>Alfred North Whitehead Альфред Норт</p>
+
+<p>Уайтхед</p>
+
+<p>Hassler Whitney Хасслер Уитни</p>
+
+<p>Eugene Wigner Юджин Вигнер</p>
+
+<p>Frank Wilczek Франк Вилчек</p>
+
+<p>Robert Wilson Роберт Вильсон</p>
+
+<p>Chen Ning Yang Чжэньнин Янг</p>
+
+<p>Shing-Tung Yau Шин-Тан Яу</p>
+
+<p>Hideki Yukawa Хидеки Юкава</p>
+
+<p>Oscar Zariski Оскар Зарисский</p>
+
+<p>Yakov Borisovich Zel’dovich Яков</p>
+
+<p>Борисович Зельдович</p>
+
+<p>Ernst Friedrich Ferdinand Zermelo Эрнст</p>
+
+<p>Фридрих Фердинанд Цермело</p><empty-line /><p>Глава 6</p>
+
+<p>Именной указатель</p>
+
+<p>Якир Ааронов Yakir Aharonov</p>
+
+<p>Вильгельм Эдуард Вебер Wilhelm</p>
+
+<p>Амедео Авогадро Amedeo Avogadro</p>
+
+<p>Eduard Weber</p>
+
+<p>Жак Адамар Jacques Hadamard</p>
+
+<p>Карл Теодор Вильгельм Вейерштрасс</p>
+
+<p>Джеймс Уэдделл Александер James</p>
+
+<p>Karl Theodor Wilhelm Weierstrass</p>
+
+<p>Waddell Alexander</p>
+
+<p>Андре Вейль André Weil</p>
+
+<p>Виктор Амазаспович Амбарцумян</p>
+
+<p>Герман Вейль Hermann Weyl</p>
+
+<p>Victor Amazaspovich Ambartsumian</p>
+
+<p>Юджин Вигнер Eugene Wigner</p>
+
+<p>Андре-Мари Ампер André-Marie</p>
+
+<p>Алекс Виленкин Alex Vilenkin</p>
+
+<p>Ampère</p>
+
+<p>Франк Вилчек Frank Wilczek</p>
+
+<p>Карл Дейвид Андерсон Carl David</p>
+
+<p>Роберт Вильсон Robert Wilson</p>
+
+<p>Anderson</p>
+
+<p>Валерий Винокур Valerii Vinokur</p>
+
+<p>Эмиль Артин Emil Artin</p>
+
+<p>Архимед Archimedes</p>
+
+<p>Галилео Галилей Galileo Galilei</p>
+
+<p>Чезаре Арцела Cesare Arzelà</p>
+
+<p>Галуа Galois</p>
+
+<p>Ален Аспект Alain Aspect</p>
+
+<p>Георг Карл Вильгельм Гамель Georg</p>
+
+<p>Майкл Атья Michael Atiyah</p>
+
+<p>Karl Wilhelm Hamel</p>
+
+<p>Вильям Роуэн Гамильтон William</p>
+
+<p>Вальтер Бааде Walter Baade</p>
+
+<p>Rowan Hamilton</p>
+
+<p>Джон С. Баез John C. Baez</p>
+
+<p>Рене Эжен Гато René Eugène Gâteaux</p>
+
+<p>Стефан Банах Stefan Banach</p>
+
+<p>Сэмюэл Абрахам Гаудсмит Samuel</p>
+
+<p>Джон Бардин John Bardeen</p>
+
+<p>Abraham Goudsmit</p>
+
+<p>Асим Орхан Барут Asim Orhan Barut</p>
+
+<p>Карл Фридрих Гаусс Carl Friedrich Gauss</p>
+
+<p>Татьяна Батурина Tatyana Baturina</p>
+
+<p>Вернер Гейзенберг Werner Heisenberg</p>
+
+<p>Джон Стюарт Белл John Stewart Bell</p>
+
+<p>Мюррей Гелл-Манн Murray Gell-Mann</p>
+
+<p>Франклин Бенджамин Benjamin</p>
+
+<p>Израиль Моисеевич Гельфанд Israel</p>
+
+<p>Franklin</p>
+
+<p>Moiseevich Gelfand</p>
+
+<p>П. Г. Бергман Peter Gabriel Bergmann</p>
+
+<p>Генрих Рудольф Герц Heinrich Rudolf</p>
+
+<p>Феликс Александрович Березин Felix</p>
+
+<p>Hertz</p>
+
+<p>Alexandrovich Berezin</p>
+
+<p>Виктор Франц Гесс Victor Franz Hess</p>
+
+<p>Яков Бернулли Jacob Bernoulli</p>
+
+<p>Джозайя Уиллард Гиббс Josiah Willard</p>
+
+<p>Джордж Биркхоф George Birkhoff</p>
+
+<p>Gibbs</p>
+
+<p>Николай Боголюбов Nikolai Bogoliubov</p>
+
+<p>Давид Гильберт David Hilbert</p>
+
+<p>Шатьендранат Бозе Satyendra Nath Bose</p>
+
+<p>Мэрвин Леонард Гольдбергер Marvin</p>
+
+<p>Бернард Больцано Bernhard Bolzano</p>
+
+<p>Leonard Goldberger</p>
+
+<p>Людвиг Больцман Ludwig Boltzmann</p>
+
+<p>Вальтер Гордон Walter Gordon</p>
+
+<p>Дэвид Джозеф Бом David Joseph Bohm</p>
+
+<p>Герман Гюнтер Грассман Hermann</p>
+
+<p>Нильс Бор Niels Bohr</p>
+
+<p>Günther Grassmann</p>
+
+<p>Феликс Борель Félix Borel</p>
+
+<p>Марсель Гроссман Marcel Grossman</p>
+
+<p>Макс Борн Max Born</p>
+
+<p>А Гротендик A Grothendieck</p>
+
+<p>Рауль Ботт Raoul Bott</p>
+
+<p>Адольф Гурвиц Adolf Hurwitz</p>
+
+<p>Никола Бурбаки Nicolas Bourbaki</p>
+
+<p>Жан Лерон Д’Аламбер Jean Le Rond</p>
+
+<p>Стивен Вайнберг Steven Weinberg</p>
+
+<p>d’Alembert</p>
+
+<p>Джеймс Ван Аллен James Van Allen</p>
+
+<p>Леонардо да Винчи Leonardo da Vinci</p>
+
+<p>61</p><empty-line /><p>62</p>
+
+<p>Именной указатель</p>
+
+<p>Франк Уотсон Дайсон Frank Watson</p>
+
+<p>Эльвин Бруно Кристоффель Elwin</p>
+
+<p>Dyson</p>
+
+<p>Bruno Chritoffel</p>
+
+<p>Фримен Джон Дайсон Freeman John</p>
+
+<p>Леопольд Кронекер Leopold Kronecker</p>
+
+<p>Dyson</p>
+
+<p>Мартин Крускал Martin Kruskal</p>
+
+<p>Луи де Бройль Louis de Broglie</p>
+
+<p>Леон Нил Купер Leon Niels Cooper</p>
+
+<p>Брайс С. Девитт Bryce S. DeWitt</p>
+
+<p>Казимир Куратовский Kazimierz</p>
+
+<p>Рене Декарт René Descartes</p>
+
+<p>Kuratowski</p>
+
+<p>Натан Джекобсон Nathan Jacobson</p>
+
+<p>Льюис Кэррол Lewis Carroll</p>
+
+<p>Пауль Дирак Paul Dirac</p>
+
+<p>Иоганн Петер Густав Лежён Дирихле</p>
+
+<p>Гиймон Франсуа де Лопиталь</p>
+
+<p>Johann Peter Gustav Lejeune Dirichlet</p>
+
+<p>Guillaume François de L’Hôpital</p>
+
+<p>Христиан Допплер Christian Doppler</p>
+
+<p>Жозеф Луи Лагранж Joseph Louis</p>
+
+<p>Жан Александр Эжен Дьедонне Jean</p>
+
+<p>Lagrange</p>
+
+<p>Alexandre Eugène Dieudonné</p>
+
+<p>Лев Ландау Lev Landau</p>
+
+<p>Джеймс Дьюар James Dewar</p>
+
+<p>Пьер-Симон Лаплас Pierre-Simon</p>
+
+<p>Laplace</p>
+
+<p>Оскар Зарисский Oscar Zariski</p>
+
+<p>Анри Лебег Henri Lebesgue</p>
+
+<p>Яков Борисович Зельдович Yakov</p>
+
+<p>Леон Макс Ледерман Leon Max</p>
+
+<p>Borisovich Zel’dovich</p>
+
+<p>Lederman</p>
+
+<p>Арнольд Зоммерфельд Arnold</p>
+
+<p>Адриен Мари Лежандр Adrien-Marie</p>
+
+<p>Sommerfeld</p>
+
+<p>Legendre</p>
+
+<p>Готфрид Вильгельм Лейбниц Gottfried</p>
+
+<p>Дмитрий Дмитриевич Иваненко Dmitri</p>
+
+<p>Wilhelm Leibniz</p>
+
+<p>Iwanenko</p>
+
+<p>Джоэль Лейбовиц Joel Lebowitz</p>
+
+<p>Леопольд Инфельд Leopold Infeld</p>
+
+<p>Серж Ленг Serge Lang</p>
+
+<p>Паскуаль Иордан Pascual Jordan</p>
+
+<p>Джозеф Лензе Joseph Lense</p>
+
+<p>Андрей Линде Andrei Linde</p>
+
+<p>Хендрик Казимир Hendrik Casimir</p>
+
+<p>Жозеф Лиувилль Joseph Liouville</p>
+
+<p>Калаби Eugenio Calabi</p>
+
+<p>Андрэ Лихнерович Andre Lichnerowicz</p>
+
+<p>Хейке Камерлинг-Оннес Heike</p>
+
+<p>Николай Иванович Лобачевский</p>
+
+<p>Kamerlingh Onnes</p>
+
+<p>Nikolai Ivanovich Lobachevsky</p>
+
+<p>Георг Кантор Georg Cantor</p>
+
+<p>Хендрик Антон Лоренц Hendrik Antoon</p>
+
+<p>Пётр Капица Pyotr Kapitsa</p>
+
+<p>Lorentz</p>
+
+<p>Константин Каратеодори Constantin</p>
+
+<p>Эдвард Нортон Лоренц Edward Norton</p>
+
+<p>Caratheodory</p>
+
+<p>Lorenz</p>
+
+<p>Сади Карно Sadi Carnot</p>
+
+<p>Анри Поль Картaн Henri Paul Cartan</p>
+
+<p>Джеймс Клерк Максвелл James Clerk</p>
+
+<p>Эли Жозеф Картан Elie Joseph Cartan</p>
+
+<p>Maxwell</p>
+
+<p>Макс Каруби Max Karoubi</p>
+
+<p>Лиза Мейтнер Lise Meitner</p>
+
+<p>Гвидо Кастельнуово Guido Castelnuovo</p>
+
+<p>Чарлз Мизнер Charles W. Misner</p>
+
+<p>Иоганн Кеплер Johann Kepler</p>
+
+<p>Роберт Миликен Robert Millikan</p>
+
+<p>Рой Патрик Керр Roy Patrick Kerr</p>
+
+<p>Джон Уиллард Милнор John Willard</p>
+
+<p>Густав Роберт Кирхгоф Gustav Robert</p>
+
+<p>Milnor</p>
+
+<p>Kirchhoff</p>
+
+<p>Герман Минковский Hermann</p>
+
+<p>Оскар Клейн Oskar Klein</p>
+
+<p>Minkowski</p>
+
+<p>Феликс Клейн Felix Klein</p>
+
+<p>Элиаким Гастингс Мур Eliakim Hastings</p>
+
+<p>Уильям Клиффорд William Clifford</p>
+
+<p>Moore</p>
+
+<p>С. Кобаяси Shoshichi Kobayashi</p>
+
+<p>Холгер Мюллер Holger Mueller</p>
+
+<p>Андрей Николаевич Колмогоров</p>
+
+<p>Andre˘i Nikolaevich Kolmogorov</p>
+
+<p>Джон фон Нейман John von Neyman</p>
+
+<p>П. Кон Paul Moritz Cohn</p>
+
+<p>Эмми Нётер Emmy Noether</p>
+
+<p>Джон Хортон Конвей John Horton</p>
+
+<p>К. Номидзу Katsumi Nomizu</p>
+
+<p>Conway</p>
+
+<p>Ньютон Newton</p>
+
+<p>Ален Конн Alain Connes</p>
+
+<p>Августин Коши Augustin Louis Cauchy</p>
+
+<p>Юрий Обухов Yuri Obukhov</p>
+
+<p>Роберт Крайчнан Robert Kraichnan</p>
+
+<p>Пьер Виктор Оже Pierre Victor Auger</p>
+
+<p>Габриель Крамер Gabriel Cramer</p>
+
+<p>Уильям Оккам William of Ockham</p>
+
+<p>Луиджи Кремона Luigi Cremona</p>
+
+<p>Питер Олвер Peter Olver</p><empty-line /><p>Именной указатель</p>
+
+<p>63</p>
+
+<p>Роберт Опенгеймер Robert</p>
+
+<p>Норман Стинрод Norman Steenrod</p>
+
+<p>Oppenheimer</p>
+
+<p>Джеймс Стирлинг James Stirling</p>
+
+<p>Джордж Габриель Стокс George Gabriel</p>
+
+<p>Блез Паскаль Blaise Paskal</p>
+
+<p>Stokes</p>
+
+<p>Вольфганг Паули Wolfgang Pauli</p>
+
+<p>Лео Сцилард Leo Szilard</p>
+
+<p>Сесил Фрэнк Пауэлл Cecil Frank Powell</p>
+
+<p>Мориц Паш Moritz Pasch</p>
+
+<p>Альфред Тарский Alfred Tarski</p>
+
+<p>Джузеппе Пеано Giuseppe Peano</p>
+
+<p>Вальтер Тирринг Walter Thirring</p>
+
+<p>Джеймс Пиблс James Peebles</p>
+
+<p>Ганс Тирринг Hans Thirring</p>
+
+<p>Макс Планк Max Planck</p>
+
+<p>Ричард Толмен Richard Tolman</p>
+
+<p>Юлий Плюкер Julius Plücker</p>
+
+<p>Джордж Паджет Томсон George Paget</p>
+
+<p>Джордж Пойа George Polya</p>
+
+<p>Thomson</p>
+
+<p>Исаак Яковлевич Померанчук Isaac</p>
+
+<p>Кип Торн Kip S. Thorne</p>
+
+<p>Pomeranchuk</p>
+
+<p>Жан-Франсуа Поммаре Jean-François</p>
+
+<p>Альфред Норт Уайтхед Alfred North</p>
+
+<p>Pommaret</p>
+
+<p>Whitehead</p>
+
+<p>Лев Семёнович Понтрягин Lev</p>
+
+<p>Джон Арчибалд Уилер John Archibald</p>
+
+<p>Semenovich Pontryagin</p>
+
+<p>Wheeler</p>
+
+<p>Жюль Анри Пуанкаре Jules Henri</p>
+
+<p>Хасслер Уитни Hassler Whitney</p>
+
+<p>Poincaré</p>
+
+<p>Джордж Юджин Уленбек George</p>
+
+<p>Симеон-Дени Пуассон Siméon-Denis</p>
+
+<p>Eugene Uhlenbeck</p>
+
+<p>Poisson</p>
+
+<p>Майкл Фарадей Michael Faraday</p>
+
+<p>Исидор Айзек Раби Isidor Isaac Rabi</p>
+
+<p>Ричард Фейнман Richard Feynman</p>
+
+<p>Бертран Рассел Bertrand Russell</p>
+
+<p>Карл Фейс Carl Faith</p>
+
+<p>Эрнест Резерфорд Ernest Rutherford</p>
+
+<p>Пьер Ферма Pierre Fermat</p>
+
+<p>Курт Вернер Фридрих Рейдемейстер</p>
+
+<p>Энрико Ферми Enrico Fermi</p>
+
+<p>Kurt Werner Friedrich Reidemeister</p>
+
+<p>Арман Ипполит Луи Физо Armand-</p>
+
+<p>Вильям Рейнольдс William Reynolds</p>
+
+<p>Hippolyte-Louis Fizeau</p>
+
+<p>Оле Кристенсен Рёмер Ole Christensen</p>
+
+<p>Сергей Павлович Фиников Serge˘i</p>
+
+<p>Roemer</p>
+
+<p>Pavlovich Finikov</p>
+
+<p>Бернхард Риман Bernhard Riemann</p>
+
+<p>Пауль Финслер Paul Finsler</p>
+
+<p>Мартин Рис Martin Rees</p>
+
+<p>Григорий Михайлович Фихтенгольц</p>
+
+<p>Грегорио Риччи Gregorio Ricci</p>
+
+<p>Grigorii Mikhailovich Fikhtengolts</p>
+
+<p>Карло Ровелли Carlo Rovelli</p>
+
+<p>Джон Амброз Флеминг John Ambrose</p>
+
+<p>Маршалл Николас Розенблют Marshall</p>
+
+<p>Fleming</p>
+
+<p>Nicholas Rosenbluth</p>
+
+<p>Сергей Васильевич Фомин Serge˘i</p>
+
+<p>Мишель Ролль Michel Rolle</p>
+
+<p>Vasil’evich Fomin</p>
+
+<p>Р Рончка Ryszard Ra</p>
+
+<p>Макс фон Лауэ Max von Laue</p>
+
+<p>. czka</p>
+
+<p>Карл Давид Тольме Рунге Karl David</p>
+
+<p>Джеймс Форбс James Forbes</p>
+
+<p>Tolme Runge</p>
+
+<p>Джордж Франсис George Francis</p>
+
+<p>Ханно Рунд Hanno Rund</p>
+
+<p>Морис Рене Фреше Maurice René Fréchet</p>
+
+<p>Александр Фридман Alexander</p>
+
+<p>Энтони Садбери Anthony Sudbery</p>
+
+<p>Friedmann</p>
+
+<p>Эдвин Эрнест Сальпетер Edwin Ernest</p>
+
+<p>Джозеф Фурье Joseph Fourier</p>
+
+<p>Salpeter</p>
+
+<p>Леонард Сасскинд Leonard Susskind</p>
+
+<p>Эдвин Хаббл Edwin Hubble</p>
+
+<p>Коррадо Сегре Corrado Segre</p>
+
+<p>Феликс Хаусдорф Felix Hausdorff</p>
+
+<p>Вацлав Серпинский Waclaw Sierpinski</p>
+
+<p>Фридрих Хель Friedrich W. Hehl</p>
+
+<p>Жан Пьер Серр Jean-Pierre Serre</p>
+
+<p>С. В. Хокинг S. W. Hawking</p>
+
+<p>Джеймс Харрис Симонс James Harris</p>
+
+<p>Хайнц Хопф Heinz Hopf</p>
+
+<p>Simons</p>
+
+<p>Энтони Хьюиш Antony Hewish</p>
+
+<p>Дмитрий Скобельцин Dmitriy</p>
+
+<p>Эрнст Фридрих Фердинанд Цермело</p>
+
+<p>Skobeltsin</p>
+
+<p>Ernst Friedrich Ferdinand Zermelo</p>
+
+<p>Ли Смолин Lee Smolin</p>
+
+<p>Эдуард Стади Eduard Study</p>
+
+<p>Оуэн Чемберлен Owen Chamberlain</p>
+
+<p>Соломон Стернберг Shlomo Sternberg</p>
+
+<p>Шиинг-Шен Черн Shiing-Shen Chern</p>
+
+<p>Томас Иоаннес Стилтьес Thomas</p>
+
+<p>Н. А. Черников N. A. Chernikov</p>
+
+<p>Joannes Stieltjes</p><empty-line /><p>64</p>
+
+<p>Именной указатель</p>
+
+<p>Джеффри Фаукар Чу Geoffrey Foucar</p>
+
+<p>Chew</p>
+
+<p>Дж. Шварц Jacob Schwartz</p>
+
+<p>Карл Шварцшильд Karl Schwarzschild</p>
+
+<p>Джулиус Швингер Julian Schwinger</p>
+
+<p>Шмидт Schmidt</p>
+
+<p>Эрвин Шредингер Erwin Schrödinger</p>
+
+<p>Джон Шриффер John Schrieffer</p>
+
+<p>Поль Штейнхардт Paul Steinhardt</p>
+
+<p>Эдуард Штифель Eduard Stiefel</p>
+
+<p>Жак Шарль Франсуа Штурм Jacques</p>
+
+<p>Charles Fracois Sturm</p>
+
+<p>Эвклид Euclid</p>
+
+<p>Артур Стэнли Эддингтон Arthur</p>
+
+<p>Stanley Eddington</p>
+
+<p>Л. П. Эйзенхарт Luther Pfahler</p>
+
+<p>Eisenhart</p>
+
+<p>Самуил Эйленберг Samuel Eilenberg</p>
+
+<p>Леонард Эйлер Leonhard Euler</p>
+
+<p>Альберт Эйнштейн Albert Einstein</p>
+
+<p>Л. Э. Эльсгольц Lev Elsgolts</p>
+
+<p>Федериго Энрикес Federigo Enriques</p>
+
+<p>Вернер Эренберг Werner Ehrenberg</p>
+
+<p>Пауль Эренфест Paul Ehrenfest</p>
+
+<p>Хидеки Юкава Hideki Yukawa</p>
+
+<p>Карл Якоби Carl Jacobi</p>
+
+<p>Чжэньнин Янг Chen Ning Yang</p>
+
+<p>Шин-Тан Яу Shing-Tung Yau</p><empty-line /><p>Глава 7</p>
+
+<p>Список литературы</p>
+
+<p>[English.1] Steven Weinberg. The Quantum Theory of Fields. Volume I. Foundations.</p>
+
+<p>Cambridge university press, 1995</p>
+
+<p>[English.2] Serge Lang, Algebra, Springer, 2002</p>
+
+<p>[English.3] Lev V. Sabinin, Smooth Quasigroups and Loops, Kluwer Academic Publisher, 1999</p>
+
+<p>[English.4] Peter J. Olver, Applications of Lie groups to differential equations, Springer, 2000</p>
+
+<p>[English.5] V. I. Smirnov, A Course of Higher Mathematics, volume I.</p>
+
+<p>Translated by D. E. Brown.</p>
+
+<p>Translation, edited and additions made by I. N. Sneddon.</p>
+
+<p>Pergamon Press, Addison-Wesley Publishing Company, 1964</p>
+
+<p>[English.6] N. Bourbaki, Topological Vector Spaces, Chapters 1 - 5, Transl. by H. G.</p>
+
+<p>Eggleston &amp; S. Madan, Springer, 2003</p>
+
+<p>[English.7] N. Bourbaki, Lie Groups and Lie Algebras, Chapters 4 - 6, Translator Andrew Pressley, Springer, 2002</p>
+
+<p>[English.8] N. Bourbaki, Lie Groups and Lie Algebras, Chapters 7 - 9, Translator Andrew Pressley, Springer, 2005</p>
+
+<p>[English.9] Eisenhart, Continuous Groups of Transformations, Dover Publications, New York, 1961</p>
+
+<p>[English.10] Edward Uhler Condon, Halis Odabasi, Atomic Structure, CUP Archive, 1980</p>
+
+<p>65</p><empty-line /><p>Глава 8</p>
+
+<p>Список литературы</p>
+
+<p>[Russian.1] Стивен Вайнберг. Квантовая теория полей. Том 1. Основы.</p>
+
+<p>Перевод на русский язык А. В. Беркова под редакцией Б. Л. Воронова,</p>
+
+<p>М., Физико-математическая литература, 2001</p>
+
+<p>[Russian.2] Серж Ленг, Алгебра, М. Мир, 1968</p>
+
+<p>[Russian.3] А. Г. Курош, Общая алгебра, (лекции 1969 - 70 учебного года), М., МГУ, 1970</p>
+
+<p>[Russian.4] П. Олвер, Приложения групп Ли к дифференциальным уравнениям, М. Мир, 1989</p>
+
+<p>[Russian.5] В. И. Смирнов, Курс высшей математики, том первый.</p>
+
+<p>М., Наука, 1974</p>
+
+<p>[Russian.6] Н. Бурбаки, Топологические векторные пространства, перевод с фран-</p>
+
+<p>цузского Д. А. Райкова, М. Иностранная литература, 1959</p>
+
+<p>[Russian.7] Н. Бурбаки, Группы и алгебры Ли, главы 4 - 6, Перевод с французско-</p>
+
+<p>го А. И. Кострикина и А. Н. Тюрина под редакцией А. И. Кострикина,</p>
+
+<p>М. Мир, 1986</p>
+
+<p>[Russian.8] Н. Бурбаки, Группы и алгебры Ли, Компактные вещественные груп-</p>
+
+<p>пы, Перевод с французского И. А. Кострикина под редакцией А. А.</p>
+
+<p>Кирилова, М. Мир, 1986</p>
+
+<p>[Russian.9] Л. П. Эйзенхарт, Непрерывные группы преобразований, перевод с ан-</p>
+
+<p>глийского М. М. Постникова, М. Иностранная литература, 1947</p>
+
+<p>67</p><empty-line /><p><strong>Document Outline</strong></p>
+
+<p>English Russian Science Dictionary</p>
+
+<p>Глава 1. Preface</p>
+
+<p>Глава 2. Введение</p>
+
+<p>Глава 3. English Russian Dictionary</p>
+
+<p>3.1. A</p>
+
+<p>3.2. B</p>
+
+<p>3.3. C</p>
+
+<p>3.4. D</p>
+
+<p>3.5. E</p>
+
+<p>3.6. F</p>
+
+<p>3.7. G</p>
+
+<p>3.8. H</p>
+
+<p>3.9. I</p>
+
+<p>3.10. J</p>
+
+<p>3.11. K</p>
+
+<p>3.12. L</p>
+
+<p>3.13. M</p>
+
+<p>3.14. N</p>
+
+<p>3.15. O</p>
+
+<p>3.16. P</p>
+
+<p>3.17. Q</p>
+
+<p>3.18. R</p>
+
+<p>3.19. S</p>
+
+<p>3.20. T</p>
+
+<p>3.21. U</p>
+
+<p>3.22. V</p>
+
+<p>3.23. W</p>
+
+<p>3.24. Z</p>
+
+<p>Глава 4. Русско английский словарь</p>
+
+<p>4.1. A</p>
+
+<p>4.2. C</p>
+
+<p>4.3. D</p>
+
+<p>4.4. R</p>
+
+<p>4.5. S</p>
+
+<p>4.6. А</p>
+
+<p>4.7. Б</p>
+
+<p>4.8. В</p>
+
+<p>4.9. Г</p>
+
+<p>4.10. Д</p>
+
+<p>4.11. Е</p>
+
+<p>4.12. З</p>
+
+<p>4.13. И</p>
+
+<p>4.14. К</p>
+
+<p>4.15. Л</p>
+
+<p>4.16. М</p>
+
+<p>4.17. Н</p>
+
+<p>4.18. О</p>
+
+<p>4.19. П</p>
+
+<p>4.20. Р</p>
+
+<p>4.21. С</p>
+
+<p>4.22. Т</p>
+
+<p>4.23. У</p>
+
+<p>4.24. Ф</p>
+
+<p>4.25. Х</p>
+
+<p>4.26. Ц</p>
+
+<p>4.27. Ч</p>
+
+<p>4.28. Э</p>
+
+<p>4.29. Я</p>
+
+<p>Глава 5. Name index</p>
+
+<p>Глава 6. Именной указатель</p>
+
+<p>Глава 7. Список литературы</p>
+
+<p>Глава 8. Список литературы</p><empty-line />
+</section>
+
+</body><binary id="_7.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_20.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_44.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_18.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_35.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_52.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_30.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_32.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_26.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_8.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_58.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_19.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_55.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_51.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_0.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_42.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_27.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_11.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_9.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_1.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_41.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_37.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_59.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_40.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_28.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_13.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_16.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_2.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_57.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_48.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_49.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_3.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_29.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_21.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_36.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_12.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_24.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_56.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_15.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_4.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_22.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_39.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_45.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_47.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_5.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_31.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_23.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_34.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_14.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_33.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_46.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_17.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_6.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_38.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_50.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_54.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_53.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_43.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_10.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary><binary id="_25.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8
+lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCAABAAEBAREA/8QAFA
+ABAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQEAAD8AGX//2
+Q==
+</binary></FictionBook>
